@@ -1,5 +1,5 @@
 {
-  "name": "xtract",
+  "name": "x-tract",
   "version": "0.0.1",
   "description": "A TypeScript library for extracting Twitter/X post data with automatic URL expansion and rich content support",
   "type": "module",
@@ -40,11 +40,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/xtract-js.git"
+    "url": "git+https://github.com/yourusername/x-tract.git"
   },
-  "homepage": "https://github.com/yourusername/xtract-js#readme",
+  "homepage": "https://github.com/yourusername/x-tract#readme",
   "bugs": {
-    "url": "https://github.com/yourusername/xtract-js/issues"
+    "url": "https://github.com/yourusername/x-tract/issues"
   },
   "devDependencies": {
     "@types/node": "^24.10.1",

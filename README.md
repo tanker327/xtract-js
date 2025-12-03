@@ -1,4 +1,4 @@
-# xtract
+# x-tract
 
 A TypeScript library for extracting Twitter/X post data with automatic URL expansion and rich content support.
 
@@ -15,13 +15,13 @@ A TypeScript library for extracting Twitter/X post data with automatic URL expan
 ## Installation
 
 ```bash
-npm install xtract
+npm install x-tract
 ```
 
 ## Quick Start
 
 ```typescript
-import { getPostData } from "xtract";
+import { getPostData } from "x-tract";
 
 // Fetch a post by ID or URL
 const post = await getPostData("1996005472114278776");
@@ -65,7 +65,7 @@ const postData = transformPost(rawPost);
 ### Utility Functions
 
 ```typescript
-import { extractPostId, isValidPostId, isValidPostUrl } from "xtract";
+import { extractPostId, isValidPostId, isValidPostUrl } from "x-tract";
 
 extractPostId("https://x.com/jack/status/20"); // '20'
 isValidPostId("20"); // true
@@ -130,7 +130,7 @@ interface PostStats {
 ### Fetch a Standard Post
 
 ```typescript
-import { getPostData } from "xtract";
+import { getPostData } from "x-tract";
 
 const post = await getPostData("20"); // Jack's first tweet
 
@@ -188,7 +188,7 @@ import {
   PostNotFoundError,
   AuthenticationError,
   InvalidPostIdError,
-} from "xtract";
+} from "x-tract";
 
 try {
   const post = await getPostData("invalid-id");
@@ -235,7 +235,7 @@ Extracts media with:
 ## Architecture
 
 ```
-xtract/
+x-tract/
 ├── client/       # API client and authentication
 ├── parsers/      # Post and article parsing
 ├── formatters/   # Markdown conversion
@@ -288,7 +288,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Support
 
-For issues and questions, please [open an issue](https://github.com/yourusername/xtract/issues).
+For issues and questions, please [open an issue](https://github.com/yourusername/x-tract/issues).
 
 ---
 

@@ -1,0 +1,611 @@
+
+> xtract@0.0.1 test
+> vitest src/article.test.ts
+
+
+[1m[44m DEV [49m[22m [34mv4.0.14 [39m[90m/Users/ericwu/projects/work/xtract-js[39m
+
+[90mstdout[2m | src/article.test.ts[2m > [22m[2mArticle Parser[2m > [22m[2mshould parse a real article JSON
+[22m[39mProcessing entity: {
+  "key": "12",
+  "value": {
+    "type": "LINK",
+    "mutability": "Mutable",
+    "data": {
+      "url": "https://aistudio.google.com/prompts/new_chat?prompt=Make%20a%20retro%2C%201950s-style%20infographic%20about%20the%20history%20of%20the%20American%20diner.%20Include%20distinct%20sections%20for%20%27The%20Food%2C%27%20%27The%20Jukebox%2C%27%20and%20%27The%20Decor.%27%20Ensure%20all%20text%20is%20legible%20and%20stylized%20to%20match%20the%20period.&model=gemini-3-pro-image-preview"
+    }
+  }
+}
+Processing entity: {
+  "key": "19",
+  "value": {
+    "type": "LINK",
+    "mutability": "Mutable",
+    "data": {
+      "url": "https://aistudio.google.com/prompts/new_chat?prompt=Design%20a%20viral%20video%20thumbnail%20using%20the%20person%20from%20Image%201.%20Face%20Consistency%3A%20Keep%20the%20person%27s%20facial%20features%20exactly%20the%20same%20as%20Image%201%2C%20but%20change%20their%20expression%20to%20look%20excited%20and%20surprised.%20Action%3A%20Pose%20the%20person%20on%20the%20left%20side%2C%20pointing%20their%20finger%20towards%20the%20right%20side%20of%20the%20frame.%20Subject%3A%20On%20the%20right%20side%2C%20place%20a%20high-quality%20image%20of%20a%20delicious%20avocado%20toast.%20Graphics%3A%20Add%20a%20bold%20yellow%20arrow%20connecting%20the%20person%27s%20finger%20to%20the%20toast.%20Text%3A%20Overlay%20massive%2C%20pop-style%20text%20in%20the%20middle%3A%20%273%E5%88%86%E9%92%9F%E6%90%9E%E5%AE%9A!%27%20%28Done%20in%203%20mins!%29.%20Use%20a%20thick%20white%20outline%20and%20drop%20shadow.%20Background%3A%20A%20blurred%2C%20bright%20kitchen%20background.%20High%20saturation%20and%20contrast.&model=gemini-3-pro-image-preview"
+    }
+  }
+}
+Processing entity: {
+  "key": "62",
+  "value": {
+    "type": "MEDIA",
+    "mutability": "Immutable",
+    "data": {
+      "entityKey": "36e5f31f-1a57-46d1-bf52-29a2ea9f1a68",
+      "mediaItems": [
+        {
+          "localMediaId": "73",
+          "mediaCategory": "DraftTweetImage",
+          "mediaId": "1994460865094193153"
+        }
+      ]
+    }
+  }
+}
+Processing entity: {
+  "key": "40",
+  "value": {
+    "type": "MEDIA",
+    "mutability": "Immutable",
+    "data": {
+      "entityKey": "35d92057-21c5-4f70-8db1-f3d62d8e05a4",
+      "mediaItems": [
+        {
+          "localMediaId": "53",
+          "mediaCategory": "DraftTweetImage",
+          "mediaId": "1994460297038630913"
+        }
+      ]
+    }
+  }
+}
+Processing entity: {
+  "key": "11",
+  "value": {
+    "type": "MEDIA",
+    "mutability": "Immutable",
+    "data": {
+      "entityKey": "627e4492-fae6-42a8-b198-c9901c349923",
+      "mediaItems": [
+        {
+          "localMediaId": "45",
+          "mediaCategory": "DraftTweetImage",
+          "mediaId": "1994458762854502401"
+        }
+      ]
+    }
+  }
+}
+Processing entity: {
+  "key": "44",
+  "value": {
+    "type": "LINK",
+    "mutability": "Mutable",
+    "data": {
+      "url": "https://aistudio.google.com/prompts/new_chat?prompt=Harness%20native%20high-fidelity%20output%20to%20craft%20a%20breathtaking%2C%20atmospheric%20environment%20of%20a%20mossy%20forest%20floor.%20Command%20complex%20lighting%20effects%20and%20delicate%20textures%2C%20ensuring%20every%20strand%20of%20moss%20and%20beam%20of%20light%20is%20rendered%20in%20pixel-perfect%20resolution%20suitable%20for%20a%204K%20wallpaper.&model=gemini-3-pro-image-preview"
+    }
+  }
+}
+Processing entity: {
+  "key": "22",
+  "value": {
+    "type": "MEDIA",
+    "mutability": "Immutable",
+    "data": {
+      "entityKey": "f773c8d1-079a-4a41-ab0a-0a3e5da6f1fa",
+      "mediaItems": [
+        {
+          "localMediaId": "47",
+          "mediaCategory": "DraftTweetImage",
+          "mediaId": "1994460063218765824"
+        }
+      ]
+    }
+  }
+}
+Processing entity: {
+  "key": "56",
+  "value": {
+    "type": "MEDIA",
+    "mutability": "Immutable",
+    "data": {
+      "entityKey": "c1405102-97ca-4542-88ce-5938e6dc0694",
+      "mediaItems": [
+        {
+          "localMediaId": "69",
+          "mediaCategory": "DraftTweetImage",
+          "mediaId": "1994460797528129536"
+        }
+      ]
+    }
+  }
+}
+Processing entity: {
+  "key": "26",
+  "value": {
+    "type": "LINK",
+    "mutability": "Mutable",
+    "data": {
+      "url": "https://aistudio-preprod.corp.google.com/prompts/new_chat?prompt=Create%20an%20image%20visualizing%20the%20current%20league%20standings%20of%20the%20top%20European%20football%20clubs%20and%20their%20recent%20form%20trends%20(last%205%20matches).%20For%20each%20team,%20add%20an%20explanation%20regarding%20recent%20results,%20injuries,%20or%20managerial%20changes%20that%20explain%20their%20current%20trajectory.&model=gemini-3-pro-image-preview"
+    }
+  }
+}
+Processing entity: {
+  "key": "37",
+  "value": {
+    "type": "TWEMOJI",
+    "mutability": "Immutable",
+    "data": {
+      "url": "https://abs-0.twimg.com/emoji/v2/svg/2194.svg"
+    }
+  }
+}
+Processing entity: {
+  "key": "61",
+  "value": {
+    "type": "LINK",
+    "mutability": "Mutable",
+    "data": {
+      "url": "https://aistudio.google.com/prompts/new_chat?prompt=Generate%20a%20pixel%20art%20sprite%20of%20a%20unicorn%20that%20fits%20perfectly%20into%20this%2064x64%20grid%20image.%20Use%20high%20contrast%20colors.&model=gemini-3-pro-image-preview"
+    }
+  }
+}
+Processing entity: {
+  "key": "13",
+  "value": {
+    "type": "MEDIA",
+    "mutability": "Immutable",
+    "data": {
+      "entityKey": "c01a7de7-cdeb-436f-9e64-b20afce5ba34",
+      "mediaItems": [
+        {
+          "localMediaId": "37",
+          "mediaCategory": "DraftTweetImage",
+          "mediaId": "1994458434922844160"
+        }
+      ]
+    }
+  }
+}
+Processing entity: {
+  "key": "24",
+  "value": {
+    "type": "DIVIDER",
+    "mutability": "Immutable",
+    "data": {}
+  }
+}
+Processing entity: {
+  "key": "35",
+  "value": {
+    "type": "LINK",
+    "mutability": "Mutable",
+    "data": {
+      "url": "https://aistudio.google.com/prompts/new_chat?prompt=Turn%20this%20scene%20into%20winter%20time.%20Keep%20the%20house%20architecture%20exactly%20the%20same%2C%20but%20add%20snow%20to%20the%20roof%20and%20yard%2C%20and%20change%20the%20lighting%20to%20a%20cold%2C%20overcast%20afternoon.&model=gemini-3-pro-image-preview"
+    }
+  }
+}
+Processing entity: {
+  "key": "5",
+  "value": {
+    "type": "TWEMOJI",
+    "mutability": "Immutable",
+    "data": {
+      "url": "https://abs-0.twimg.com/emoji/v2/svg/274c.svg"
+    }
+  }
+}
+Processing entity: {
+  "key": "10",
+  "value": {
+    "type": "LINK",
+    "mutability": "Mutable",
+    "data": {
+      "url": "https://aistudio.google.com/prompts/new_chat?prompt=Generate%20a%20clean%2C%20modern%20infographic%20summarizing%20the%20key%20financial%20highlights%20from%20this%20earnings%20report.%20Include%20charts%20for%20%27Revenue%20Growth%27%20and%20%27Net%20Income%27%2C%20and%20highlight%20the%20CEO%27s%20key%20quote%20in%20a%20stylized%20pull-quote%20box.&model=gemini-3-pro-image-preview"
+    }
+  }
+}
+Processing entity: {
+  "key": "48",
+  "value": {
+    "type": "MEDIA",
+    "mutability": "Immutable",
+    "data": {
+      "entityKey": "45ac0bd2-bea9-4d4e-897c-582ce39503d7",
+      "mediaItems": [
+        {
+          "localMediaId": "89",
+          "mediaCategory": "DraftTweetImage",
+          "mediaId": "1994466994993991683"
+        }
+      ]
+    }
+  }
+}
+Processing entity: {
+  "key": "54",
+  "value": {
+    "type": "LINK",
+    "mutability": "Mutable",
+    "data": {
+      "url": "https://aistudio.google.com/prompts/new_chat?prompt=Create%20an%20addictively%20intriguing%209-part%20story%20with%209%20images%20featuring%20a%20woman%20and%20man%20in%20an%20award-winning%20luxury%20luggage%20commercial.%20The%20story%20should%20have%20emotional%20highs%20and%20lows%2C%20ending%20on%20an%20elegant%20shot%20of%20the%20woman%20with%20the%20logo.%20The%20identity%20of%20the%20woman%20and%20man%20and%20their%20attire%20must%20stay%20consistent%20throughout%20but%20they%20can%20and%20should%20be%20seen%20from%20different%20angles%20and%20distances.%20Please%20generate%20images%20one%20at%20a%20time.%20Make%20sure%20every%20image%20is%20in%20a%2016%3A9%20landscape%20format.&model=gemini-3-pro-image-preview"
+    }
+  }
+}
+Processing entity: {
+  "key": "65",
+  "value": {
+    "type": "DIVIDER",
+    "mutability": "Immutable",
+    "data": {}
+  }
+}
+Processing entity: {
+  "key": "57",
+  "value": {
+    "type": "LINK",
+    "mutability": "Mutable",
+    "data": {
+      "url": "https://aistudio.google.com/prompts/new_chat?prompt=Create%20a%20high-end%20magazine%20advertisement%20for%20a%20luxury%20perfume%20brand%20called%20%27Nebula%27%20based%20on%20this%20hand-drawn%20sketch.%20Keep%20the%20exact%20layout%20of%20the%20bottle%20and%20text%20placement%2C%20but%20render%20it%20in%20a%20photorealistic%20style%20with%20a%20galaxy-themed%20background.&model=gemini-3-pro-image-preview"
+    }
+  }
+}
+Processing entity: {
+  "key": "49",
+  "value": {
+    "type": "LINK",
+    "mutability": "Mutable",
+    "data": {
+      "url": "https://aistudio.google.com/prompts/new_chat?prompt=Solve%20log_%7Bx%2B1%7D(x%5E2%2B1)%3D2%20in%20C%20on%20a%20white%20board.%20Show%20the%20steps%20clearly.&model=gemini-3-pro-image-preview"
+    }
+  }
+}
+Processing entity: {
+  "key": "6",
+  "value": {
+    "type": "TWEMOJI",
+    "mutability": "Immutable",
+    "data": {
+      "url": "https://abs-0.twimg.com/emoji/v2/svg/2705.svg"
+    }
+  }
+}
+Processing entity: {
+  "key": "1",
+  "value": {
+    "type": "LINK",
+    "mutability": "Mutable",
+    "data": {
+      "url": "https://ai.studio/"
+    }
+  }
+}
+Processing entity: {
+  "key": "17",
+  "value": {
+    "type": "DIVIDER",
+    "mutability": "Immutable",
+    "data": {}
+  }
+}
+Processing entity: {
+  "key": "25",
+  "value": {
+    "type": "MEDIA",
+    "mutability": "Immutable",
+    "data": {
+      "entityKey": "600d937e-1a35-456f-9782-3688874bfa3e",
+      "mediaItems": [
+        {
+          "localMediaId": "67",
+          "mediaCategory": "DraftTweetImage",
+          "mediaId": "1994460768860012544"
+        }
+      ]
+    }
+  }
+}
+Processing entity: {
+  "key": "14",
+  "value": {
+    "type": "LINK",
+    "mutability": "Mutable",
+    "data": {
+      "url": "https://aistudio.google.com/prompts/new_chat?prompt=Create%20an%20orthographic%20blueprint%20that%20describes%20this%20building%20in%20plan%2C%20elevation%2C%20and%20section.%20Label%20the%20%27North%20Elevation%27%20and%20%27Main%20Entrance%27%20clearly%20in%20technical%20architectural%20font.%20Format%2016%3A9.&model=gemini-3-pro-image-preview"
+    }
+  }
+}
+Processing entity: {
+  "key": "31",
+  "value": {
+    "type": "LINK",
+    "mutability": "Mutable",
+    "data": {
+      "url": "https://aistudio.google.com/prompts/new_chat?prompt=Colorize%20this%20manga%20panel.%20Use%20a%20vibrant%20anime%20style%20palette.%20Ensure%20the%20lighting%20effects%20on%20the%20energy%20beams%20are%20glowing%20neon%20blue%20and%20the%20character%27s%20outfit%20is%20consistent%20with%20their%20official%20colors.&model=gemini-3-pro-image-preview"
+    }
+  }
+}
+Processing entity: {
+  "key": "69",
+  "value": {
+    "type": "LINK",
+    "mutability": "Mutable",
+    "data": {
+      "url": "https://dev.to/googleai/introducing-nano-banana-pro-complete-developer-tutorial-5fc8"
+    }
+  }
+}
+Processing entity: {
+  "key": "64",
+  "value": {
+    "type": "LINK",
+    "mutability": "Mutable",
+    "data": {
+      "url": "https://colab.sandbox.google.com/github/google-gemini/cookbook/blob/main/quickstarts/Get_Started_Nano_Banana.ipynb#scrollTo=xuQeyK-teUf1"
+    }
+  }
+}
+Processing entity: {
+  "key": "53",
+  "value": {
+    "type": "MEDIA",
+    "mutability": "Immutable",
+    "data": {
+      "entityKey": "620d9a02-3da8-4c15-bacc-2f287cef665e",
+      "mediaItems": [
+        {
+          "localMediaId": "77",
+          "mediaCategory": "DraftTweetImage",
+          "mediaId": "1994461031792603136"
+        }
+      ]
+    }
+  }
+}
+Processing entity: {
+  "key": "0",
+  "value": {
+    "type": "LINK",
+    "mutability": "Mutable",
+    "data": {
+      "url": "https://dev.to/googleai/introducing-nano-banana-pro-complete-developer-tutorial-5fc8"
+    }
+  }
+}
+Processing entity: {
+  "key": "27",
+  "value": {
+    "type": "DIVIDER",
+    "mutability": "Immutable",
+    "data": {}
+  }
+}
+Processing entity: {
+  "key": "2",
+  "value": {
+    "type": "TWEMOJI",
+    "mutability": "Immutable",
+    "data": {
+      "url": "https://abs-0.twimg.com/emoji/v2/svg/2194.svg"
+    }
+  }
+}
+Processing entity: {
+  "key": "38",
+  "value": {
+    "type": "MEDIA",
+    "mutability": "Immutable",
+    "data": {
+      "entityKey": "4fec03c6-ac1f-46ac-8824-6c712198459a",
+      "mediaItems": [
+        {
+          "localMediaId": "59",
+          "mediaCategory": "DraftTweetImage",
+          "mediaId": "1994460393348239363"
+        }
+      ]
+    }
+  }
+}
+Processing entity: {
+  "key": "30",
+  "value": {
+    "type": "MEDIA",
+    "mutability": "Immutable",
+    "data": {
+      "entityKey": "ea811104-0282-4100-9223-bb05f7fc4dfd",
+      "mediaItems": [
+        {
+          "localMediaId": "61",
+          "mediaCategory": "DraftTweetImage",
+          "mediaId": "1994460431738642432"
+        }
+      ]
+    }
+  }
+}
+
+ [31m❯[39m src/article.test.ts [2m([22m[2m1 test[22m[2m | [22m[31m1 failed[39m[2m)[22m[32m 4[2mms[22m[39m
+[31m     [31m×[31m should parse a real article JSON[39m[32m 4[2mms[22m[39m
+
+[31m⎯⎯⎯⎯⎯⎯⎯[39m[1m[41m Failed Tests 1 [49m[22m[31m⎯⎯⎯⎯⎯⎯⎯[39m
+
+[41m[1m FAIL [22m[49m src/article.test.ts[2m > [22mArticle Parser[2m > [22mshould parse a real article JSON
+[31m[1mAssertionError[22m: expected 0 to be greater than 0[39m
+[36m [2m❯[22m src/article.test.ts:[2m29:32[22m[39m
+    [90m 27| [39m    [90m// Check for specific blocks we know exist[39m
+    [90m 28| [39m    [35mconst[39m imageBlocks [33m=[39m parsed[33m.[39mblocks[33m.[39m[34mfilter[39m(b [33m=>[39m b[33m.[39mtype [33m===[39m [32m'image'[39m)[33m;[39m
+    [90m 29| [39m    [34mexpect[39m(imageBlocks[33m.[39mlength)[33m.[39m[34mtoBeGreaterThan[39m([34m0[39m)[33m;[39m
+    [90m   | [39m                               [31m^[39m
+    [90m 30| [39m
+    [90m 31| [39m    [90m// Check if URLs were resolved[39m
+
+[31m[2m⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[1/1]⎯[22m[39m
+
+
+[2m Test Files [22m [1m[31m1 failed[39m[22m[90m (1)[39m
+[2m      Tests [22m [1m[31m1 failed[39m[22m[90m (1)[39m
+[2m   Start at [22m 13:05:32
+[2m   Duration [22m 105ms[2m (transform 18ms, setup 0ms, import 24ms, tests 4ms, environment 0ms)[22m
+
+[1m[41m FAIL [49m[22m [31mTests failed. Watching for file changes...[39m
+       [2mpress [22m[1mh[22m[2m to show help[22m[2m, [22m[2mpress [22m[1mq[22m[2m to quit[22m
+c[3J[1m[44m RERUN [49m[22m [34m[2msrc/article.ts [22m[34mx1 [34m[39m
+       [2m Filename pattern: [22m[34msrc/article.test.ts[39m
+
+ [32m✓[39m src/article.test.ts [2m([22m[2m1 test[22m[2m)[22m[32m 4[2mms[22m[39m
+
+[2m Test Files [22m [1m[32m1 passed[39m[22m[90m (1)[39m
+[2m      Tests [22m [1m[32m1 passed[39m[22m[90m (1)[39m
+[2m   Start at [22m 13:06:37
+[2m   Duration [22m 41ms
+
+[1m[42m PASS [49m[22m [32mWaiting for file changes...[39m
+       [2mpress [22m[1mh[22m[2m to show help[22m[2m, [22m[2mpress [22m[1mq[22m[2m to quit[22m
+c[3J[1m[44m RERUN [49m[22m [34m[2msrc/article.ts [22m[34mx2 [34m[39m
+       [2m Filename pattern: [22m[34msrc/article.test.ts[39m
+
+ [32m✓[39m src/article.test.ts [2m([22m[2m1 test[22m[2m)[22m[32m 3[2mms[22m[39m
+
+[2m Test Files [22m [1m[32m1 passed[39m[22m[90m (1)[39m
+[2m      Tests [22m [1m[32m1 passed[39m[22m[90m (1)[39m
+[2m   Start at [22m 13:06:54
+[2m   Duration [22m 30ms
+
+[1m[42m PASS [49m[22m [32mWaiting for file changes...[39m
+       [2mpress [22m[1mh[22m[2m to show help[22m[2m, [22m[2mpress [22m[1mq[22m[2m to quit[22m
+c[3J[1m[44m RERUN [49m[22m [34m[2msrc/article.ts [22m[34mx3 [34m[39m
+       [2m Filename pattern: [22m[34msrc/article.test.ts[39m
+
+ [32m✓[39m src/article.test.ts [2m([22m[2m1 test[22m[2m)[22m[32m 5[2mms[22m[39m
+
+[2m Test Files [22m [1m[32m1 passed[39m[22m[90m (1)[39m
+[2m      Tests [22m [1m[32m1 passed[39m[22m[90m (1)[39m
+[2m   Start at [22m 13:07:18
+[2m   Duration [22m 94ms
+
+[1m[42m PASS [49m[22m [32mWaiting for file changes...[39m
+       [2mpress [22m[1mh[22m[2m to show help[22m[2m, [22m[2mpress [22m[1mq[22m[2m to quit[22m
+c[3J[1m[44m RERUN [49m[22m [34m[2msrc/article.ts [22m[34mx4 [34m[39m
+       [2m Filename pattern: [22m[34msrc/article.test.ts[39m
+
+
+[31m⎯⎯⎯⎯⎯⎯[39m[1m[41m Failed Suites 1 [49m[22m[31m⎯⎯⎯⎯⎯⎯⎯[39m
+
+[41m[1m FAIL [22m[49m src/article.test.ts[2m [ src/article.test.ts ][22m
+[31m[1mError[22m: Transform failed with 1 error:
+/Users/ericwu/projects/work/xtract-js/src/article.ts:72:4: ERROR: Unexpected "}"[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36m/Users/ericwu/projects/work/xtract-js/src/article.ts[39m:72:4
+[33m  
+  Unexpected "}"
+  70 |  // ... (inside parseArticle loop for text blocks)
+  71 |  
+  72 |      } else {
+     |      ^
+  73 |    // Text block
+  74 |    blocks.push({
+  [39m
+[90m [2m❯[22m failureErrorWithLog node_modules/vite/node_modules/esbuild/lib/main.js:[2m1467:15[22m[39m
+[90m [2m❯[22m node_modules/vite/node_modules/esbuild/lib/main.js:[2m736:50[22m[39m
+[90m [2m❯[22m responseCallbacks.<computed> node_modules/vite/node_modules/esbuild/lib/main.js:[2m603:9[22m[39m
+[90m [2m❯[22m handleIncomingPacket node_modules/vite/node_modules/esbuild/lib/main.js:[2m658:12[22m[39m
+[90m [2m❯[22m Socket.readFromStdout node_modules/vite/node_modules/esbuild/lib/main.js:[2m581:7[22m[39m
+
+[31m[2m⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[1/1]⎯[22m[39m
+
+
+[2m Test Files [22m [1m[31m1 failed[39m[22m[90m (1)[39m
+[2m      Tests [22m [2mno tests[22m
+[2m   Start at [22m 13:19:27
+[2m   Duration [22m 0ms
+
+[1m[41m FAIL [49m[22m [31mTests failed. Watching for file changes...[39m
+       [2mpress [22m[1mh[22m[2m to show help[22m[2m, [22m[2mpress [22m[1mq[22m[2m to quit[22m
+c[3J[1m[44m RERUN [49m[22m [34m[2msrc/article.ts [22m[34mx5 [34m[39m
+       [2m Filename pattern: [22m[34msrc/article.test.ts[39m
+
+
+[31m⎯⎯⎯⎯⎯⎯[39m[1m[41m Failed Suites 1 [49m[22m[31m⎯⎯⎯⎯⎯⎯⎯[39m
+
+[41m[1m FAIL [22m[49m src/article.test.ts[2m [ src/article.test.ts ][22m
+[31m[1mError[22m: Transform failed with 1 error:
+/Users/ericwu/projects/work/xtract-js/src/article.ts:72:4: ERROR: Unexpected "}"[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36m/Users/ericwu/projects/work/xtract-js/src/article.ts[39m:72:4
+[33m  
+  Unexpected "}"
+  70 |  // ... (inside parseArticle loop for text blocks)
+  71 |  
+  72 |      } else {
+     |      ^
+  73 |    // Text block
+  74 |    blocks.push({
+  [39m
+[90m [2m❯[22m failureErrorWithLog node_modules/vite/node_modules/esbuild/lib/main.js:[2m1467:15[22m[39m
+[90m [2m❯[22m node_modules/vite/node_modules/esbuild/lib/main.js:[2m736:50[22m[39m
+[90m [2m❯[22m responseCallbacks.<computed> node_modules/vite/node_modules/esbuild/lib/main.js:[2m603:9[22m[39m
+[90m [2m❯[22m handleIncomingPacket node_modules/vite/node_modules/esbuild/lib/main.js:[2m658:12[22m[39m
+[90m [2m❯[22m Socket.readFromStdout node_modules/vite/node_modules/esbuild/lib/main.js:[2m581:7[22m[39m
+
+[31m[2m⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[1/1]⎯[22m[39m
+
+
+[2m Test Files [22m [1m[31m1 failed[39m[22m[90m (1)[39m
+[2m      Tests [22m [2mno tests[22m
+[2m   Start at [22m 13:19:29
+[2m   Duration [22m 0ms
+
+[1m[41m FAIL [49m[22m [31mTests failed. Watching for file changes...[39m
+       [2mpress [22m[1mh[22m[2m to show help[22m[2m, [22m[2mpress [22m[1mq[22m[2m to quit[22m
+c[3J[1m[44m RERUN [49m[22m [34m[2msrc/article.ts [22m[34mx6 [34m[39m
+       [2m Filename pattern: [22m[34msrc/article.test.ts[39m
+
+
+[31m⎯⎯⎯⎯⎯⎯[39m[1m[41m Failed Suites 1 [49m[22m[31m⎯⎯⎯⎯⎯⎯⎯[39m
+
+[41m[1m FAIL [22m[49m src/article.test.ts[2m [ src/article.test.ts ][22m
+[31m[1mError[22m: Transform failed with 1 error:
+/Users/ericwu/projects/work/xtract-js/src/article.ts:72:4: ERROR: Unexpected "}"[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36m/Users/ericwu/projects/work/xtract-js/src/article.ts[39m:72:4
+[33m  
+  Unexpected "}"
+  70 |  // ... (inside parseArticle loop for text blocks)
+  71 |  
+  72 |      } else {
+     |      ^
+  73 |    // Text block
+  74 |    blocks.push({
+  [39m
+[90m [2m❯[22m failureErrorWithLog node_modules/vite/node_modules/esbuild/lib/main.js:[2m1467:15[22m[39m
+[90m [2m❯[22m node_modules/vite/node_modules/esbuild/lib/main.js:[2m736:50[22m[39m
+[90m [2m❯[22m responseCallbacks.<computed> node_modules/vite/node_modules/esbuild/lib/main.js:[2m603:9[22m[39m
+[90m [2m❯[22m handleIncomingPacket node_modules/vite/node_modules/esbuild/lib/main.js:[2m658:12[22m[39m
+[90m [2m❯[22m Socket.readFromStdout node_modules/vite/node_modules/esbuild/lib/main.js:[2m581:7[22m[39m
+
+[31m[2m⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[1/1]⎯[22m[39m
+
+
+[2m Test Files [22m [1m[31m1 failed[39m[22m[90m (1)[39m
+[2m      Tests [22m [2mno tests[22m
+[2m   Start at [22m 13:19:31
+[2m   Duration [22m 0ms
+
+[1m[41m FAIL [49m[22m [31mTests failed. Watching for file changes...[39m
+       [2mpress [22m[1mh[22m[2m to show help[22m[2m, [22m[2mpress [22m[1mq[22m[2m to quit[22m
+c[3J[1m[44m RERUN [49m[22m [34m[2msrc/article.ts [22m[34mx7 [34m[39m
+       [2m Filename pattern: [22m[34msrc/article.test.ts[39m
+
+ [32m✓[39m src/article.test.ts [2m([22m[2m1 test[22m[2m)[22m[32m 2[2mms[22m[39m
+
+[2m Test Files [22m [1m[32m1 passed[39m[22m[90m (1)[39m
+[2m      Tests [22m [1m[32m1 passed[39m[22m[90m (1)[39m
+[2m   Start at [22m 13:20:17
+[2m   Duration [22m 38ms
+
+[1m[42m PASS [49m[22m [32mWaiting for file changes...[39m
+       [2mpress [22m[1mh[22m[2m to show help[22m[2m, [22m[2mpress [22m[1mq[22m[2m to quit[22m
+[33mTest removed...[39m[2m [ src/article.test.ts ]
+[22m

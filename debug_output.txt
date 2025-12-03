@@ -1,0 +1,4697 @@
+Failed to parse tweet data: {
+  "data": {
+    "tweetResult": {
+      "result": {
+        "__typename": "Tweet",
+        "rest_id": "1994480371061469306",
+        "core": {
+          "user_results": {
+            "result": {
+              "__typename": "User",
+              "id": "VXNlcjoxNzQyOTIzNDI0MDU2NzEzMjE3",
+              "rest_id": "1742923424056713217",
+              "affiliates_highlighted_label": {},
+              "avatar": {
+                "image_url": "https://pbs.twimg.com/profile_images/1957558782067896323/6jXpPKD4_normal.png"
+              },
+              "core": {
+                "created_at": "Thu Jan 04 14:58:26 +0000 2024",
+                "name": "Google AI Studio",
+                "screen_name": "GoogleAIStudio"
+              },
+              "dm_permissions": {},
+              "is_blue_verified": false,
+              "legacy": {
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "The fastest path from prompt to production with Gemini",
+                "entities": {
+                  "description": {
+                    "urls": []
+                  },
+                  "url": {
+                    "urls": [
+                      {
+                        "display_url": "ai.studio/build",
+                        "expanded_url": "https://ai.studio/build",
+                        "url": "https://t.co/dp8Frcr6y8",
+                        "indices": [
+                          0,
+                          23
+                        ]
+                      }
+                    ]
+                  }
+                },
+                "fast_followers_count": 0,
+                "favourites_count": 123,
+                "followers_count": 90039,
+                "friends_count": 2,
+                "has_custom_timelines": false,
+                "is_translator": false,
+                "listed_count": 916,
+                "media_count": 31,
+                "normal_followers_count": 90039,
+                "pinned_tweet_ids_str": [],
+                "possibly_sensitive": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1742923424056713217/1753024915",
+                "profile_interstitial_type": "",
+                "statuses_count": 66,
+                "translator_type": "none",
+                "url": "https://t.co/dp8Frcr6y8",
+                "withheld_in_countries": []
+              },
+              "location": {
+                "location": "It's time to build"
+              },
+              "media_permissions": {},
+              "parody_commentary_fan_label": "None",
+              "profile_image_shape": "Square",
+              "professional": {
+                "rest_id": "1742937721637925326",
+                "professional_type": "Business",
+                "category": []
+              },
+              "profile_bio": {
+                "description": "The fastest path from prompt to production with Gemini"
+              },
+              "privacy": {
+                "protected": false
+              },
+              "relationship_perspectives": {},
+              "tipjar_settings": {
+                "is_enabled": false,
+                "bandcamp_handle": "",
+                "bitcoin_handle": "",
+                "cash_app_handle": "",
+                "ethereum_handle": "",
+                "gofundme_handle": "",
+                "patreon_handle": "",
+                "pay_pal_handle": "",
+                "venmo_handle": ""
+              },
+              "verification": {
+                "verified": false,
+                "verified_type": "Business"
+              },
+              "profile_description_language": "en"
+            }
+          }
+        },
+        "unmention_data": {},
+        "edit_control": {
+          "edit_tweet_ids": [
+            "1994480371061469306"
+          ],
+          "editable_until_msecs": "1764359750000",
+          "is_edit_eligible": false,
+          "edits_remaining": "5"
+        },
+        "is_translatable": false,
+        "views": {
+          "count": "641648",
+          "state": "EnabledWithCount"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "article": {
+          "article_results": {
+            "result": {
+              "rest_id": "1994455406228508672",
+              "id": "QXJ0aWNsZUVudGl0eToxOTk0NDU1NDA2MjI4NTA4Njcy",
+              "title": "The Complete Guide to Nano Banana Pro: 10 Tips for Professional Asset Production",
+              "preview_text": "Nano-Banana Pro is a significant leap forward from previous generation models, moving from \"fun\" image generation to \"functional\" professional asset production. It excels in text rendering, character",
+              "cover_media": {
+                "id": "QXBpTWVkaWE6DAAFCgABG63QKDQbkAMKAAIYMBueqZugAQAA",
+                "media_key": "3_1994479081086488579",
+                "media_id": "1994479081086488579",
+                "media_info": {
+                  "__typename": "ApiImage",
+                  "original_img_height": 960,
+                  "original_img_width": 2400,
+                  "original_img_url": "https://pbs.twimg.com/media/G63QKDQbkAMSCp3.jpg",
+                  "color_info": {
+                    "palette": [
+                      {
+                        "percentage": 72.9,
+                        "rgb": {
+                          "blue": 2,
+                          "green": 1,
+                          "red": 1
+                        }
+                      },
+                      {
+                        "percentage": 9.21,
+                        "rgb": {
+                          "blue": 31,
+                          "green": 51,
+                          "red": 94
+                        }
+                      },
+                      {
+                        "percentage": 5.62,
+                        "rgb": {
+                          "blue": 203,
+                          "green": 182,
+                          "red": 136
+                        }
+                      },
+                      {
+                        "percentage": 4.17,
+                        "rgb": {
+                          "blue": 39,
+                          "green": 92,
+                          "red": 167
+                        }
+                      },
+                      {
+                        "percentage": 0.84,
+                        "rgb": {
+                          "blue": 77,
+                          "green": 170,
+                          "red": 233
+                        }
+                      }
+                    ]
+                  }
+                }
+              },
+              "content_state": {
+                "blocks": [
+                  {
+                    "key": "30kvi",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                      {
+                        "length": 15,
+                        "offset": 0,
+                        "style": "Bold"
+                      },
+                      {
+                        "length": 115,
+                        "offset": 174,
+                        "style": "Bold"
+                      }
+                    ],
+                    "text": "Nano-Banana Pro is a significant leap forward from previous generation models, moving from \"fun\" image generation to \"functional\" professional asset production. It excels in text rendering, character consistency, visual synthesis, world knowledge (Search), and high-resolution (4K) output.",
+                    "type": "unstyled"
+                  },
+                  {
+                    "key": "6cd5b",
+                    "data": {},
+                    "entityRanges": [
+                      {
+                        "key": 0,
+                        "length": 15,
+                        "offset": 14
+                      },
+                      {
+                        "key": 1,
+                        "length": 9,
+                        "offset": 57
+                      }
+                    ],
+                    "inlineStyleRanges": [],
+                    "text": "Following the developer guide on how to get started with AI Studio and the API, this guide covers the core capabilities and how to prompt them effectively.",
+                    "type": "unstyled"
+                  },
+                  {
+                    "key": "4ot1d",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                      {
+                        "length": 64,
+                        "offset": 0,
+                        "style": "Italic"
+                      }
+                    ],
+                    "text": "By Guillaume Vernade, Gemini Developer Advocate, Google DeepMind",
+                    "type": "blockquote"
+                  },
+                  {
+                    "key": "2q5h",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                      {
+                        "length": 40,
+                        "offset": 0,
+                        "style": "Bold"
+                      }
+                    ],
+                    "text": "Here's what you'll find in this article:",
+                    "type": "header-two"
+                  },
+                  {
+                    "key": "csscc",
+                    "data": {},
+                    "entityRanges": [
+                      {
+                        "key": 2,
+                        "length": 1,
+                        "offset": 239
+                      }
+                    ],
+                    "inlineStyleRanges": [],
+                    "text": "0. The Golden Rules of Prompting\n1. Text Rendering, Infographics & Visual Synthesis\n2. Character Consistency & Viral Thumbnails\n3. Grounding with Google Search\n4. Advanced Editing, Restoration & Colorization\n5. Dimensional Translation (2D ↔ 3D)\n6. High-Resolution & Textures\n7. Thinking & Reasoning\n8. One-Shot Storyboarding & Concept Art\n9. Structural Control & Layout Guidance\n10. What's Next?",
+                    "type": "unstyled"
+                  },
+                  {
+                    "key": "89lqq",
+                    "data": {},
+                    "entityRanges": [
+                      {
+                        "key": 3,
+                        "length": 1,
+                        "offset": 0
+                      }
+                    ],
+                    "inlineStyleRanges": [],
+                    "text": " ",
+                    "type": "atomic"
+                  },
+                  {
+                    "key": "6hg1k",
+                    "data": {},
+                    "entityRanges": [
+                      {
+                        "key": 4,
+                        "length": 1,
+                        "offset": 0
+                      }
+                    ],
+                    "inlineStyleRanges": [],
+                    "text": "🛑 Section 0: The Golden Rules of Prompting",
+                    "type": "header-two"
+                  },
+                  {
+                    "key": "an7us",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [],
+                    "text": "Nano-Banana Pro is a \"Thinking\" model. It doesn't just match keywords; it understands intent, physics, and composition. To get the best results, stop using \"tag soups\" (e.g., dog, park, 4k, realistic) and start acting like a Creative Director.",
+                    "type": "unstyled"
+                  },
+                  {
+                    "key": "6auvf",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                      {
+                        "length": 22,
+                        "offset": 0,
+                        "style": "Bold"
+                      }
+                    ],
+                    "text": "1. Edit, Don't Re-roll",
+                    "type": "header-two"
+                  },
+                  {
+                    "key": "9vf3k",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [],
+                    "text": "The model is exceptionally good at understanding conversational edits. If an image is 80% correct, do not generate a new one from scratch. Instead, simply ask for the specific change you need.",
+                    "type": "unstyled"
+                  },
+                  {
+                    "key": "48f71",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                      {
+                        "length": 8,
+                        "offset": 0,
+                        "style": "Italic"
+                      }
+                    ],
+                    "text": "Example: \"That's great, but change the lighting to sunset and make the text neon blue.\"",
+                    "type": "blockquote"
+                  },
+                  {
+                    "key": "7er9k",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                      {
+                        "length": 40,
+                        "offset": 0,
+                        "style": "Bold"
+                      }
+                    ],
+                    "text": "2. Use Natural Language & Full Sentences",
+                    "type": "header-two"
+                  },
+                  {
+                    "key": "ei9f0",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [],
+                    "text": "Talk to the model as if you were briefing a human artist. Use proper grammar and descriptive adjectives.",
+                    "type": "unstyled"
+                  },
+                  {
+                    "key": "4v57m",
+                    "data": {},
+                    "entityRanges": [
+                      {
+                        "key": 5,
+                        "length": 1,
+                        "offset": 0
+                      }
+                    ],
+                    "inlineStyleRanges": [
+                      {
+                        "length": 4,
+                        "offset": 2,
+                        "style": "Bold"
+                      }
+                    ],
+                    "text": "❌ Bad: \"Cool car, neon, city, night, 8k.\"",
+                    "type": "blockquote"
+                  },
+                  {
+                    "key": "2gquu",
+                    "data": {},
+                    "entityRanges": [
+                      {
+                        "key": 6,
+                        "length": 1,
+                        "offset": 0
+                      }
+                    ],
+                    "inlineStyleRanges": [
+                      {
+                        "length": 5,
+                        "offset": 2,
+                        "style": "Bold"
+                      }
+                    ],
+                    "text": "✅ Good: \"A cinematic wide shot of a futuristic sports car speeding through a rainy Tokyo street at night. The neon signs reflect off the wet pavement and the car's metallic chassis.\"",
+                    "type": "blockquote"
+                  },
+                  {
+                    "key": "c60ih",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                      {
+                        "length": 30,
+                        "offset": 0,
+                        "style": "Bold"
+                      }
+                    ],
+                    "text": "3. Be Specific and Descriptive",
+                    "type": "header-two"
+                  },
+                  {
+                    "key": "btihd",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [],
+                    "text": "Vague prompts yield generic results. Define the subject, the setting, the lighting, and the mood.",
+                    "type": "unstyled"
+                  },
+                  {
+                    "key": "2ks61",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                      {
+                        "length": 8,
+                        "offset": 0,
+                        "style": "Bold"
+                      }
+                    ],
+                    "text": "Subject: Instead of \"a woman,\" say \"a sophisticated elderly woman wearing a vintage chanel-style suit.\"",
+                    "type": "blockquote"
+                  },
+                  {
+                    "key": "4p5gj",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                      {
+                        "length": 12,
+                        "offset": 0,
+                        "style": "Bold"
+                      }
+                    ],
+                    "text": "Materiality: Describe textures. \"Matte finish,\" \"brushed steel,\" \"soft velvet,\" \"crumpled paper.\"",
+                    "type": "blockquote"
+                  },
+                  {
+                    "key": "9rio5",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                      {
+                        "length": 44,
+                        "offset": 0,
+                        "style": "Bold"
+                      }
+                    ],
+                    "text": "4. Provide Context (The \"Why\" or \"For whom\")",
+                    "type": "header-two"
+                  },
+                  {
+                    "key": "2cb6d",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [],
+                    "text": "Because the model \"thinks,\" giving it context helps it make logical artistic decisions.",
+                    "type": "unstyled"
+                  },
+                  {
+                    "key": "ajpc0",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                      {
+                        "length": 8,
+                        "offset": 0,
+                        "style": "Italic"
+                      },
+                      {
+                        "length": 41,
+                        "offset": 40,
+                        "style": "Bold"
+                      }
+                    ],
+                    "text": "Example: \"Create an image of a sandwich for a Brazilian high-end gourmet cookbook.\" (The model will infer professional plating, shallow depth of field, and perfect lighting).",
+                    "type": "blockquote"
+                  },
+                  {
+                    "key": "c2u48",
+                    "data": {},
+                    "entityRanges": [
+                      {
+                        "key": 7,
+                        "length": 1,
+                        "offset": 0
+                      }
+                    ],
+                    "inlineStyleRanges": [],
+                    "text": " ",
+                    "type": "atomic"
+                  },
+                  {
+                    "key": "avgkj",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [],
+                    "text": "1. Text Rendering, Infographics & Visual Synthesis",
+                    "type": "header-one"
+                  },
+                  {
+                    "key": "5blgi",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [],
+                    "text": "Nano-Banana Pro has SOTA capabilities for rendering legible, stylized text and synthesizing complex information into visual formats.",
+                    "type": "unstyled"
+                  },
+                  {
+                    "key": "4a2mr",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                      {
+                        "length": 15,
+                        "offset": 0,
+                        "style": "Bold"
+                      }
+                    ],
+                    "text": "Best Practices:",
+                    "type": "unstyled"
+                  },
+                  {
+                    "key": "7hmim",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                      {
+                        "length": 12,
+                        "offset": 0,
+                        "style": "Bold"
+                      }
+                    ],
+                    "text": "Compression: Ask the model to \"compress\" dense text or PDFs into visual aids.",
+                    "type": "unordered-list-item"
+                  },
+                  {
+                    "key": "bdgmn",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                      {
+                        "length": 6,
+                        "offset": 0,
+                        "style": "Bold"
+                      }
+                    ],
+                    "text": "Style: Specify if you want a \"polished editorial,\" a \"technical diagram,\" or a \"hand-drawn whiteboard\" look.",
+                    "type": "unordered-list-item"
+                  },
+                  {
+                    "key": "al3sm",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                      {
+                        "length": 7,
+                        "offset": 0,
+                        "style": "Bold"
+                      }
+                    ],
+                    "text": "Quotes: Clearly specify the text you want in quotes.",
+                    "type": "unordered-list-item"
+                  },
+                  {
+                    "key": "cvgnt",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                      {
+                        "length": 16,
+                        "offset": 0,
+                        "style": "Bold"
+                      }
+                    ],
+                    "text": "Example Prompts:",
+                    "type": "unstyled"
+                  },
+                  {
+                    "key": "4m3q",
+                    "data": {},
+                    "entityRanges": [
+                      {
+                        "key": 8,
+                        "length": 15,
+                        "offset": 76
+                      }
+                    ],
+                    "inlineStyleRanges": [
+                      {
+                        "length": 45,
+                        "offset": 0,
+                        "style": "Bold"
+                      }
+                    ],
+                    "text": "Earnings Report Infographic (Data Ingestion):\n[Input PDF of Google's latest earnings report]\n\"Generate a clean, modern infographic summarizing the key financial highlights from this earnings report. Include charts for 'Revenue Growth' and 'Net Income', and highlight the CEO's key quote in a stylized pull-quote box.\"",
+                    "type": "blockquote"
+                  },
+                  {
+                    "key": "19to5",
+                    "data": {},
+                    "entityRanges": [
+                      {
+                        "key": 9,
+                        "length": 1,
+                        "offset": 0
+                      }
+                    ],
+                    "inlineStyleRanges": [],
+                    "text": " ",
+                    "type": "atomic"
+                  },
+                  {
+                    "key": "8jhom",
+                    "data": {},
+                    "entityRanges": [
+                      {
+                        "key": 10,
+                        "length": 19,
+                        "offset": 0
+                      }
+                    ],
+                    "inlineStyleRanges": [
+                      {
+                        "length": 32,
+                        "offset": 20,
+                        "style": "Italic"
+                      }
+                    ],
+                    "text": "Try it in AI Studio (Note: Requires uploading a PDF)",
+                    "type": "unstyled"
+                  },
+                  {
+                    "key": "59bhl",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                      {
+                        "length": 18,
+                        "offset": 0,
+                        "style": "Bold"
+                      }
+                    ],
+                    "text": "Retro Infographic:\n\"Make a retro, 1950s-style infographic about the history of the American diner. Include distinct sections for 'The Food,' 'The Jukebox,' and 'The Decor.' Ensure all text is legible and stylized to match the period.\"",
+                    "type": "blockquote"
+                  },
+                  {
+                    "key": "ee2g7",
+                    "data": {},
+                    "entityRanges": [
+                      {
+                        "key": 11,
+                        "length": 1,
+                        "offset": 0
+                      }
+                    ],
+                    "inlineStyleRanges": [],
+                    "text": " ",
+                    "type": "atomic"
+                  },
+                  {
+                    "key": "3m225",
+                    "data": {},
+                    "entityRanges": [
+                      {
+                        "key": 12,
+                        "length": 19,
+                        "offset": 0
+                      }
+                    ],
+                    "inlineStyleRanges": [],
+                    "text": "Try it in AI Studio",
+                    "type": "unstyled"
+                  },
+                  {
+                    "key": "2ndrg",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                      {
+                        "length": 18,
+                        "offset": 0,
+                        "style": "Bold"
+                      }
+                    ],
+                    "text": "Technical Diagram:\n\"Create an orthographic blueprint that describes this building in plan, elevation, and section. Label the 'North Elevation' and 'Main Entrance' clearly in technical architectural font. Format 16:9.\"",
+                    "type": "blockquote"
+                  },
+                  {
+                    "key": "9631p",
+                    "data": {},
+                    "entityRanges": [
+                      {
+                        "key": 13,
+                        "length": 1,
+                        "offset": 0
+                      }
+                    ],
+                    "inlineStyleRanges": [],
+                    "text": " ",
+                    "type": "atomic"
+                  },
+                  {
+                    "key": "1pqr8",
+                    "data": {},
+                    "entityRanges": [
+                      {
+                        "key": 14,
+                        "length": 19,
+                        "offset": 0
+                      }
+                    ],
+                    "inlineStyleRanges": [],
+                    "text": "Try it in AI Studio",
+                    "type": "unstyled"
+                  },
+                  {
+                    "key": "m4g2",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                      {
+                        "length": 33,
+                        "offset": 0,
+                        "style": "Bold"
+                      }
+                    ],
+                    "text": "Whiteboard Summary (Educational):\n\"Summarize the concept of 'Transformer Neural Network Architecture' as a hand-drawn whiteboard diagram suitable for a university lecture. Use different colored markers for the Encoder and Decoder blocks, and include legible labels for 'Self-Attention' and 'Feed Forward'.\"",
+                    "type": "blockquote"
+                  },
+                  {
+                    "key": "6ef45",
+                    "data": {},
+                    "entityRanges": [
+                      {
+                        "key": 15,
+                        "length": 1,
+                        "offset": 0
+                      }
+                    ],
+                    "inlineStyleRanges": [],
+                    "text": " ",
+                    "type": "atomic"
+                  },
+                  {
+                    "key": "16hoi",
+                    "data": {},
+                    "entityRanges": [
+                      {
+                        "key": 16,
+                        "length": 19,
+                        "offset": 0
+                      }
+                    ],
+                    "inlineStyleRanges": [],
+                    "text": "Try it in AI Studio",
+                    "type": "unstyled"
+                  },
+                  {
+                    "key": "789d5",
+                    "data": {},
+                    "entityRanges": [
+                      {
+                        "key": 17,
+                        "length": 1,
+                        "offset": 0
+                      }
+                    ],
+                    "inlineStyleRanges": [],
+                    "text": " ",
+                    "type": "atomic"
+                  },
+                  {
+                    "key": "6va5f",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [],
+                    "text": "2. Character Consistency & Viral Thumbnails",
+                    "type": "header-two"
+                  },
+                  {
+                    "key": "5vfdf",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                      {
+                        "length": 25,
+                        "offset": 25,
+                        "style": "Bold"
+                      }
+                    ],
+                    "text": "Nano-Banana Pro supports up to 14 reference images (6 with high fidelity). This allows for \"Identity Locking\"—placing a specific person or character into new scenarios without facial distortion.",
+                    "type": "unstyled"
+                  },
+                  {
+                    "key": "fve50",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                      {
+                        "length": 15,
+                        "offset": 0,
+                        "style": "Bold"
+                      }
+                    ],
+                    "text": "Best Practices:",
+                    "type": "unstyled"
+                  },
+                  {
+                    "key": "cn6n6",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                      {
+                        "length": 17,
+                        "offset": 0,
+                        "style": "Bold"
+                      }
+                    ],
+                    "text": "Identity Locking: Explicitly state: \"Keep the person's facial features exactly the same as Image 1.\"",
+                    "type": "unordered-list-item"
+                  },
+                  {
+                    "key": "9aqdf",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                      {
+                        "length": 18,
+                        "offset": 0,
+                        "style": "Bold"
+                      },
+                      {
+                        "length": 6,
+                        "offset": 32,
+                        "style": "Italic"
+                      }
+                    ],
+                    "text": "Expression/Action: Describe the change in emotion or pose while maintaining the identity.",
+                    "type": "unordered-list-item"
+                  },
+                  {
+                    "key": "8ui3b",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                      {
+                        "length": 18,
+                        "offset": 0,
+                        "style": "Bold"
+                      }
+                    ],
+                    "text": "Viral Composition: Combine subjects with bold graphics and text in a single pass.",
+                    "type": "unordered-list-item"
+                  },
+                  {
+                    "key": "5chge",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                      {
+                        "length": 16,
+                        "offset": 0,
+                        "style": "Bold"
+                      }
+                    ],
+                    "text": "Example Prompts:",
+                    "type": "unstyled"
+                  },
+                  {
+                    "key": "d36r8",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                      {
+                        "length": 51,
+                        "offset": 0,
+                        "style": "Bold"
+                      },
+                      {
+                        "length": 17,
+                        "offset": 115,
+                        "style": "Bold"
+                      },
+                      {
+                        "length": 7,
+                        "offset": 255,
+                        "style": "Bold"
+                      },
+                      {
+                        "length": 8,
+                        "offset": 356,
+                        "style": "Bold"
+                      },
+                      {
+                        "length": 9,
+                        "offset": 441,
+                        "style": "Bold"
+                      },
+                      {
+                        "length": 5,
+                        "offset": 520,
+                        "style": "Bold"
+                      },
+                      {
+                        "length": 11,
+                        "offset": 644,
+                        "style": "Bold"
+                      }
+                    ],
+                    "text": "The \"Viral Thumbnail\" (Identity + Text + Graphics):\n\"Design a viral video thumbnail using the person from Image 1. Face Consistency: Keep the person's facial features exactly the same as Image 1, but change their expression to look excited and surprised. Action: Pose the person on the left side, pointing their finger towards the right side of the frame. Subject: On the right side, place a high-quality image of a delicious avocado toast. Graphics: Add a bold yellow arrow connecting the person's finger to the toast. Text: Overlay massive, pop-style text in the middle: '3分钟搞定!' (Done in 3 mins!). Use a thick white outline and drop shadow. Background: A blurred, bright kitchen background. High saturation and contrast.\"",
+                    "type": "blockquote"
+                  },
+                  {
+                    "key": "c18k1",
+                    "data": {},
+                    "entityRanges": [
+                      {
+                        "key": 18,
+                        "length": 1,
+                        "offset": 0
+                      }
+                    ],
+                    "inlineStyleRanges": [],
+                    "text": " ",
+                    "type": "atomic"
+                  },
+                  {
+                    "key": "b8rtq",
+                    "data": {},
+                    "entityRanges": [
+                      {
+                        "key": 19,
+                        "length": 19,
+                        "offset": 0
+                      }
+                    ],
+                    "inlineStyleRanges": [
+                      {
+                        "length": 44,
+                        "offset": 20,
+                        "style": "Italic"
+                      }
+                    ],
+                    "text": "Try it in AI Studio (Note: Requires uploading a reference image)",
+                    "type": "unstyled"
+                  },
+                  {
+                    "key": "f38e1",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                      {
+                        "length": 50,
+                        "offset": 0,
+                        "style": "Bold"
+                      },
+                      {
+                        "length": 60,
+                        "offset": 277,
+                        "style": "Bold"
+                      }
+                    ],
+                    "text": "The \"Fluffy Friends\" Scenario (Group Consistency):\n[Input 3 images of different plush creatures]\n\"Create a funny 10-part story with these 3 fluffy friends going on a tropical vacation. The story is thrilling throughout with emotional highs and lows and ends in a happy moment. Keep the attire and identity consistent for all 3 characters, but their expressions and angles should vary throughout all 10 images. Make sure to only have one of each character in each image.\"",
+                    "type": "blockquote"
+                  },
+                  {
+                    "key": "14s6s",
+                    "data": {},
+                    "entityRanges": [
+                      {
+                        "key": 20,
+                        "length": 1,
+                        "offset": 0
+                      }
+                    ],
+                    "inlineStyleRanges": [],
+                    "text": " ",
+                    "type": "atomic"
+                  },
+                  {
+                    "key": "5517q",
+                    "data": {},
+                    "entityRanges": [
+                      {
+                        "key": 21,
+                        "length": 19,
+                        "offset": 0
+                      }
+                    ],
+                    "inlineStyleRanges": [
+                      {
+                        "length": 43,
+                        "offset": 20,
+                        "style": "Italic"
+                      }
+                    ],
+                    "text": "Try it in AI Studio (Note: Requires uploading reference images)",
+                    "type": "unstyled"
+                  },
+                  {
+                    "key": "8i5k6",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                      {
+                        "length": 23,
+                        "offset": 0,
+                        "style": "Bold"
+                      }
+                    ],
+                    "text": "Brand Asset Generation:\n[Input 1 image of a product]\n\"Create 9 stunning fashion shots as if they’re from an award-winning fashion editorial. Use this reference as the brand style but add nuance and variety to the range so they convey a professional design touch. Please generate nine images, one at a time.\"",
+                    "type": "blockquote"
+                  },
+                  {
+                    "key": "3glb2",
+                    "data": {},
+                    "entityRanges": [
+                      {
+                        "key": 22,
+                        "length": 1,
+                        "offset": 0
+                      }
+                    ],
+                    "inlineStyleRanges": [],
+                    "text": " ",
+                    "type": "atomic"
+                  },
+                  {
+                    "key": "d10kr",
+                    "data": {},
+                    "entityRanges": [
+                      {
+                        "key": 23,
+                        "length": 19,
+                        "offset": 0
+                      }
+                    ],
+                    "inlineStyleRanges": [
+                      {
+                        "length": 44,
+                        "offset": 20,
+                        "style": "Italic"
+                      }
+                    ],
+                    "text": "Try it in AI Studio (Note: Requires uploading a reference image)",
+                    "type": "unstyled"
+                  },
+                  {
+                    "key": "242ql",
+                    "data": {},
+                    "entityRanges": [
+                      {
+                        "key": 24,
+                        "length": 1,
+                        "offset": 0
+                      }
+                    ],
+                    "inlineStyleRanges": [],
+                    "text": " ",
+                    "type": "atomic"
+                  },
+                  {
+                    "key": "dumqv",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [],
+                    "text": "3. Grounding with Google Search",
+                    "type": "header-two"
+                  },
+                  {
+                    "key": "6ia9s",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [],
+                    "text": "Nano-Banana Pro uses Google Search to generate imagery based on real-time data, current events, or factual verification, reducing hallucinations on timely topics.",
+                    "type": "unstyled"
+                  },
+                  {
+                    "key": "8a03c",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                      {
+                        "length": 15,
+                        "offset": 0,
+                        "style": "Bold"
+                      }
+                    ],
+                    "text": "Best Practices:",
+                    "type": "unstyled"
+                  },
+                  {
+                    "key": "2kn57",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [],
+                    "text": "Ask for visualizations of dynamic data (weather, stocks, news).",
+                    "type": "unordered-list-item"
+                  },
+                  {
+                    "key": "e3lhm",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [],
+                    "text": "The model will \"Think\" (reason) about the search results before generating the image.",
+                    "type": "unordered-list-item"
+                  },
+                  {
+                    "key": "bfvn2",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                      {
+                        "length": 16,
+                        "offset": 0,
+                        "style": "Bold"
+                      }
+                    ],
+                    "text": "Example Prompts:",
+                    "type": "unstyled"
+                  },
+                  {
+                    "key": "45n43",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                      {
+                        "length": 20,
+                        "offset": 0,
+                        "style": "Bold"
+                      }
+                    ],
+                    "text": "Event Visualization:\n\"Generate an infographic of the best times to visit the U.S. National Parks in 2025 based on current travel trends.\"",
+                    "type": "blockquote"
+                  },
+                  {
+                    "key": "5t34p",
+                    "data": {},
+                    "entityRanges": [
+                      {
+                        "key": 25,
+                        "length": 1,
+                        "offset": 0
+                      }
+                    ],
+                    "inlineStyleRanges": [],
+                    "text": " ",
+                    "type": "atomic"
+                  },
+                  {
+                    "key": "civqt",
+                    "data": {},
+                    "entityRanges": [
+                      {
+                        "key": 26,
+                        "length": 19,
+                        "offset": 0
+                      }
+                    ],
+                    "inlineStyleRanges": [],
+                    "text": "Try it in AI Studio",
+                    "type": "unstyled"
+                  },
+                  {
+                    "key": "3cdi6",
+                    "data": {},
+                    "entityRanges": [
+                      {
+                        "key": 27,
+                        "length": 1,
+                        "offset": 0
+                      }
+                    ],
+                    "inlineStyleRanges": [],
+                    "text": " ",
+                    "type": "atomic"
+                  },
+                  {
+                    "key": "8dej5",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [],
+                    "text": "4. Advanced Editing, Restoration & Colorization",
+                    "type": "header-two"
+                  },
+                  {
+                    "key": "8ijqq",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [],
+                    "text": "The model excels at complex edits via conversational prompting. This includes \"In-painting\" (removing/adding objects), \"Restoration\" (fixing old photos), \"Colorization\" (Manga/B&W photos), and \"Style Swapping.\"",
+                    "type": "unstyled"
+                  },
+                  {
+                    "key": "acedm",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                      {
+                        "length": 15,
+                        "offset": 0,
+                        "style": "Bold"
+                      }
+                    ],
+                    "text": "Best Practices:",
+                    "type": "unstyled"
+                  },
+                  {
+                    "key": "9pkcl",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                      {
+                        "length": 22,
+                        "offset": 0,
+                        "style": "Bold"
+                      }
+                    ],
+                    "text": "Semantic Instructions: You do not need to manually mask; simply tell the model what to change naturally.",
+                    "type": "unordered-list-item"
+                  },
+                  {
+                    "key": "1olc",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                      {
+                        "length": 22,
+                        "offset": 0,
+                        "style": "Bold"
+                      }
+                    ],
+                    "text": "Physics Understanding: You can ask for complex changes like \"fill this glass with liquid\" to test physics generation.",
+                    "type": "unordered-list-item"
+                  },
+                  {
+                    "key": "e2lss",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                      {
+                        "length": 16,
+                        "offset": 0,
+                        "style": "Bold"
+                      }
+                    ],
+                    "text": "Example Prompts:",
+                    "type": "unstyled"
+                  },
+                  {
+                    "key": "19qmh",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                      {
+                        "length": 29,
+                        "offset": 0,
+                        "style": "Bold"
+                      }
+                    ],
+                    "text": "Object Removal & In-painting:\n\"Remove the tourists from the background of this photo and fill the space with logical textures (cobblestones and storefronts) that match the surrounding environment.\"",
+                    "type": "blockquote"
+                  },
+                  {
+                    "key": "7klou",
+                    "data": {},
+                    "entityRanges": [
+                      {
+                        "key": 28,
+                        "length": 1,
+                        "offset": 0
+                      }
+                    ],
+                    "inlineStyleRanges": [],
+                    "text": " ",
+                    "type": "atomic"
+                  },
+                  {
+                    "key": "4uih5",
+                    "data": {},
+                    "entityRanges": [
+                      {
+                        "key": 29,
+                        "length": 19,
+                        "offset": 0
+                      }
+                    ],
+                    "inlineStyleRanges": [
+                      {
+                        "length": 34,
+                        "offset": 20,
+                        "style": "Italic"
+                      }
+                    ],
+                    "text": "Try it in AI Studio (Note: Requires uploading a photo)",
+                    "type": "unstyled"
+                  },
+                  {
+                    "key": "a6ei9",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                      {
+                        "length": 25,
+                        "offset": 0,
+                        "style": "Bold"
+                      }
+                    ],
+                    "text": "Manga/Comic Colorization:\n[Input black and white manga panel]\n\"Colorize this manga panel. Use a vibrant anime style palette. Ensure the lighting effects on the energy beams are glowing neon blue and the character's outfit is consistent with their official colors.\"",
+                    "type": "blockquote"
+                  },
+                  {
+                    "key": "fpurn",
+                    "data": {},
+                    "entityRanges": [
+                      {
+                        "key": 30,
+                        "length": 1,
+                        "offset": 0
+                      }
+                    ],
+                    "inlineStyleRanges": [],
+                    "text": " ",
+                    "type": "atomic"
+                  },
+                  {
+                    "key": "b71bk",
+                    "data": {},
+                    "entityRanges": [
+                      {
+                        "key": 31,
+                        "length": 19,
+                        "offset": 0
+                      }
+                    ],
+                    "inlineStyleRanges": [
+                      {
+                        "length": 35,
+                        "offset": 20,
+                        "style": "Italic"
+                      }
+                    ],
+                    "text": "Try it in AI Studio (Note: Requires uploading an image)",
+                    "type": "unstyled"
+                  },
+                  {
+                    "key": "3403a",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                      {
+                        "length": 54,
+                        "offset": 0,
+                        "style": "Bold"
+                      }
+                    ],
+                    "text": "Localization (Text Translation + Cultural Adaptation):\n[Input image of a London bus stop ad]\n\"Take this concept and localize it to a Tokyo setting, including translating the tagline into Japanese. Change the background to a bustling Shibuya street at night.\"",
+                    "type": "blockquote"
+                  },
+                  {
+                    "key": "di7vh",
+                    "data": {},
+                    "entityRanges": [
+                      {
+                        "key": 32,
+                        "length": 1,
+                        "offset": 0
+                      }
+                    ],
+                    "inlineStyleRanges": [],
+                    "text": " ",
+                    "type": "atomic"
+                  },
+                  {
+                    "key": "2tpf",
+                    "data": {},
+                    "entityRanges": [
+                      {
+                        "key": 33,
+                        "length": 19,
+                        "offset": 0
+                      }
+                    ],
+                    "inlineStyleRanges": [
+                      {
+                        "length": 35,
+                        "offset": 20,
+                        "style": "Italic"
+                      }
+                    ],
+                    "text": "Try it in AI Studio (Note: Requires uploading an image)",
+                    "type": "unstyled"
+                  },
+                  {
+                    "key": "7e8j8",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                      {
+                        "length": 26,
+                        "offset": 0,
+                        "style": "Bold"
+                      }
+                    ],
+                    "text": "Lighting/Seasonal Control:\n[Input image of a house in summer]\n\"Turn this scene into winter time. Keep the house architecture exactly the same, but add snow to the roof and yard, and change the lighting to a cold, overcast afternoon.\"",
+                    "type": "blockquote"
+                  },
+                  {
+                    "key": "26jdh",
+                    "data": {},
+                    "entityRanges": [
+                      {
+                        "key": 34,
+                        "length": 1,
+                        "offset": 0
+                      }
+                    ],
+                    "inlineStyleRanges": [],
+                    "text": " ",
+                    "type": "atomic"
+                  },
+                  {
+                    "key": "cf10r",
+                    "data": {},
+                    "entityRanges": [
+                      {
+                        "key": 35,
+                        "length": 19,
+                        "offset": 0
+                      }
+                    ],
+                    "inlineStyleRanges": [
+                      {
+                        "length": 35,
+                        "offset": 20,
+                        "style": "Italic"
+                      }
+                    ],
+                    "text": "Try it in AI Studio (Note: Requires uploading an image)",
+                    "type": "unstyled"
+                  },
+                  {
+                    "key": "dkted",
+                    "data": {},
+                    "entityRanges": [
+                      {
+                        "key": 36,
+                        "length": 1,
+                        "offset": 0
+                      }
+                    ],
+                    "inlineStyleRanges": [],
+                    "text": " ",
+                    "type": "atomic"
+                  },
+                  {
+                    "key": "c5l9",
+                    "data": {},
+                    "entityRanges": [
+                      {
+                        "key": 37,
+                        "length": 1,
+                        "offset": 31
+                      }
+                    ],
+                    "inlineStyleRanges": [],
+                    "text": "5. Dimensional Translation (2D ↔ 3D)",
+                    "type": "header-two"
+                  },
+                  {
+                    "key": "7udut",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [],
+                    "text": "A powerful new capability is translating 2D schematics into 3D visualizations, or vice versa. This is ideal for interior designers, architects, and meme creators.",
+                    "type": "unstyled"
+                  },
+                  {
+                    "key": "ep3tj",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                      {
+                        "length": 16,
+                        "offset": 0,
+                        "style": "Bold"
+                      }
+                    ],
+                    "text": "Example Prompts:",
+                    "type": "unstyled"
+                  },
+                  {
+                    "key": "a905s",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                      {
+                        "length": 42,
+                        "offset": 0,
+                        "style": "Bold"
+                      },
+                      {
+                        "length": 7,
+                        "offset": 159,
+                        "style": "Bold"
+                      },
+                      {
+                        "length": 6,
+                        "offset": 351,
+                        "style": "Bold"
+                      },
+                      {
+                        "length": 8,
+                        "offset": 457,
+                        "style": "Bold"
+                      }
+                    ],
+                    "text": "2D Floor Plan to 3D Interior Design Board:\n\"Based on the uploaded 2D floor plan, generate a professional interior design presentation board in a single image. Layout: A collage with one large main image at the top (wide-angle perspective of the living area), and three smaller images below (Master Bedroom, Home Office, and a 3D top-down floor plan). Style: Apply a Modern Minimalist style with warm oak wood flooring and off-white walls across ALL images. Quality: Photorealistic rendering, soft natural lighting.\"",
+                    "type": "blockquote"
+                  },
+                  {
+                    "key": "8kv3f",
+                    "data": {},
+                    "entityRanges": [
+                      {
+                        "key": 38,
+                        "length": 1,
+                        "offset": 0
+                      }
+                    ],
+                    "inlineStyleRanges": [],
+                    "text": " ",
+                    "type": "atomic"
+                  },
+                  {
+                    "key": "8t2oo",
+                    "data": {},
+                    "entityRanges": [
+                      {
+                        "key": 39,
+                        "length": 19,
+                        "offset": 0
+                      }
+                    ],
+                    "inlineStyleRanges": [
+                      {
+                        "length": 39,
+                        "offset": 20,
+                        "style": "Italic"
+                      }
+                    ],
+                    "text": "Try it in AI Studio (Note: Requires uploading a floor plan)",
+                    "type": "unstyled"
+                  },
+                  {
+                    "key": "e4c95",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                      {
+                        "length": 25,
+                        "offset": 0,
+                        "style": "Bold"
+                      }
+                    ],
+                    "text": "2D to 3D Meme Conversion:\n\"Turn the 'This is Fine' dog meme into a photorealistic 3D render. Keep the composition identical but make the dog look like a plush toy and the fire look like realistic flames.\"",
+                    "type": "blockquote"
+                  },
+                  {
+                    "key": "2l60f",
+                    "data": {},
+                    "entityRanges": [
+                      {
+                        "key": 40,
+                        "length": 1,
+                        "offset": 0
+                      }
+                    ],
+                    "inlineStyleRanges": [],
+                    "text": " ",
+                    "type": "atomic"
+                  },
+                  {
+                    "key": "28efc",
+                    "data": {},
+                    "entityRanges": [
+                      {
+                        "key": 41,
+                        "length": 19,
+                        "offset": 0
+                      }
+                    ],
+                    "inlineStyleRanges": [],
+                    "text": "Try it in AI Studio",
+                    "type": "unstyled"
+                  },
+                  {
+                    "key": "1st3j",
+                    "data": {},
+                    "entityRanges": [
+                      {
+                        "key": 42,
+                        "length": 1,
+                        "offset": 0
+                      }
+                    ],
+                    "inlineStyleRanges": [],
+                    "text": " ",
+                    "type": "atomic"
+                  },
+                  {
+                    "key": "ajjo5",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [],
+                    "text": "6. High-Resolution & Textures",
+                    "type": "header-two"
+                  },
+                  {
+                    "key": "3t58q",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [],
+                    "text": "Nano-Banana Pro supports native 1K to 4K image generation. This is particularly useful for detailed textures or large-format prints.",
+                    "type": "unstyled"
+                  },
+                  {
+                    "key": "59pmo",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                      {
+                        "length": 15,
+                        "offset": 0,
+                        "style": "Bold"
+                      }
+                    ],
+                    "text": "Best Practices:",
+                    "type": "unstyled"
+                  },
+                  {
+                    "key": "7ind6",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [],
+                    "text": "Explicitly request high resolutions (2K or 4K) if your API/Interface allows.",
+                    "type": "unordered-list-item"
+                  },
+                  {
+                    "key": "9r85r",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [],
+                    "text": "Describe high-fidelity details (imperfections, surface textures).",
+                    "type": "unordered-list-item"
+                  },
+                  {
+                    "key": "2vkbt",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                      {
+                        "length": 16,
+                        "offset": 0,
+                        "style": "Bold"
+                      }
+                    ],
+                    "text": "Example Prompts:",
+                    "type": "unstyled"
+                  },
+                  {
+                    "key": "9cfi0",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                      {
+                        "length": 22,
+                        "offset": 0,
+                        "style": "Bold"
+                      }
+                    ],
+                    "text": "4K Texture Generation:\n\"Harness native high-fidelity output to craft a breathtaking, atmospheric environment of a mossy forest floor. Command complex lighting effects and delicate textures, ensuring every strand of moss and beam of light is rendered in pixel-perfect resolution suitable for a 4K wallpaper.\"",
+                    "type": "blockquote"
+                  },
+                  {
+                    "key": "d67ho",
+                    "data": {},
+                    "entityRanges": [
+                      {
+                        "key": 43,
+                        "length": 1,
+                        "offset": 0
+                      }
+                    ],
+                    "inlineStyleRanges": [],
+                    "text": " ",
+                    "type": "atomic"
+                  },
+                  {
+                    "key": "2c677",
+                    "data": {},
+                    "entityRanges": [
+                      {
+                        "key": 44,
+                        "length": 19,
+                        "offset": 0
+                      }
+                    ],
+                    "inlineStyleRanges": [],
+                    "text": "Try it in AI Studio",
+                    "type": "unstyled"
+                  },
+                  {
+                    "key": "1ml91",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                      {
+                        "length": 30,
+                        "offset": 0,
+                        "style": "Bold"
+                      }
+                    ],
+                    "text": "Complex Logic (Thinking Mode):\n\"Create a hyper-realistic infographic of a gourmet cheeseburger, deconstructed to show the texture of the toasted brioche bun, the seared crust of the patty, and the glistening melt of the cheese. Label each layer with its flavor profile.\"",
+                    "type": "blockquote"
+                  },
+                  {
+                    "key": "feoks",
+                    "data": {},
+                    "entityRanges": [
+                      {
+                        "key": 45,
+                        "length": 1,
+                        "offset": 0
+                      }
+                    ],
+                    "inlineStyleRanges": [],
+                    "text": " ",
+                    "type": "atomic"
+                  },
+                  {
+                    "key": "6td2m",
+                    "data": {},
+                    "entityRanges": [
+                      {
+                        "key": 46,
+                        "length": 19,
+                        "offset": 0
+                      }
+                    ],
+                    "inlineStyleRanges": [],
+                    "text": "Try it in AI Studio",
+                    "type": "unstyled"
+                  },
+                  {
+                    "key": "c27uh",
+                    "data": {},
+                    "entityRanges": [
+                      {
+                        "key": 47,
+                        "length": 1,
+                        "offset": 0
+                      }
+                    ],
+                    "inlineStyleRanges": [],
+                    "text": " ",
+                    "type": "atomic"
+                  },
+                  {
+                    "key": "87c1k",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [],
+                    "text": "7. Thinking & Reasoning",
+                    "type": "header-two"
+                  },
+                  {
+                    "key": "chng6",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [],
+                    "text": "Nano-Banana Pro defaults to a \"Thinking\" process where it generates interim thought images (not charged) to refine composition before rendering the final output. This allows for data analysis and solving visual problems.",
+                    "type": "unstyled"
+                  },
+                  {
+                    "key": "dom2j",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                      {
+                        "length": 16,
+                        "offset": 0,
+                        "style": "Bold"
+                      }
+                    ],
+                    "text": "Example Prompts:",
+                    "type": "unstyled"
+                  },
+                  {
+                    "key": "br107",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                      {
+                        "length": 16,
+                        "offset": 0,
+                        "style": "Bold"
+                      }
+                    ],
+                    "text": "Solve Equations:\n\"Solve log_{x^2+1}(x^4-1)=2 in C on a white board. Show the steps clearly.\"",
+                    "type": "blockquote"
+                  },
+                  {
+                    "key": "bcff",
+                    "data": {},
+                    "entityRanges": [
+                      {
+                        "key": 48,
+                        "length": 1,
+                        "offset": 0
+                      }
+                    ],
+                    "inlineStyleRanges": [],
+                    "text": " ",
+                    "type": "atomic"
+                  },
+                  {
+                    "key": "4lkti",
+                    "data": {},
+                    "entityRanges": [
+                      {
+                        "key": 49,
+                        "length": 19,
+                        "offset": 0
+                      }
+                    ],
+                    "inlineStyleRanges": [],
+                    "text": "Try it in AI Studio",
+                    "type": "unstyled"
+                  },
+                  {
+                    "key": "jtup",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                      {
+                        "length": 17,
+                        "offset": 0,
+                        "style": "Bold"
+                      }
+                    ],
+                    "text": "Visual Reasoning:\n\"Analyze this image of a room and generate a 'before' image that shows what the room might have looked like during construction, showing the framing and unfinished drywall.\"",
+                    "type": "blockquote"
+                  },
+                  {
+                    "key": "ce40r",
+                    "data": {},
+                    "entityRanges": [
+                      {
+                        "key": 50,
+                        "length": 1,
+                        "offset": 0
+                      }
+                    ],
+                    "inlineStyleRanges": [],
+                    "text": " ",
+                    "type": "atomic"
+                  },
+                  {
+                    "key": "o61u",
+                    "data": {},
+                    "entityRanges": [
+                      {
+                        "key": 51,
+                        "length": 19,
+                        "offset": 0
+                      }
+                    ],
+                    "inlineStyleRanges": [
+                      {
+                        "length": 35,
+                        "offset": 20,
+                        "style": "Italic"
+                      }
+                    ],
+                    "text": "Try it in AI Studio (Note: Requires uploading an image)",
+                    "type": "unstyled"
+                  },
+                  {
+                    "key": "6gebh",
+                    "data": {},
+                    "entityRanges": [
+                      {
+                        "key": 52,
+                        "length": 1,
+                        "offset": 0
+                      }
+                    ],
+                    "inlineStyleRanges": [],
+                    "text": " ",
+                    "type": "atomic"
+                  },
+                  {
+                    "key": "8emlf",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [],
+                    "text": "8. One-Shot Storyboarding & Concept Art",
+                    "type": "header-two"
+                  },
+                  {
+                    "key": "blv93",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [],
+                    "text": "You can generate sequential art or storyboards without a grid, ensuring a cohesive narrative flow in a single session. This is also popular for \"Movie Concept Art\" (e.g., fake leaks of upcoming films).",
+                    "type": "unstyled"
+                  },
+                  {
+                    "key": "3l34n",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                      {
+                        "length": 15,
+                        "offset": 0,
+                        "style": "Bold"
+                      }
+                    ],
+                    "text": "Example Prompt:",
+                    "type": "unstyled"
+                  },
+                  {
+                    "key": "fsj02",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                      {
+                        "length": 82,
+                        "offset": 236,
+                        "style": "Bold"
+                      }
+                    ],
+                    "text": "\"Create an addictively intriguing 9-part story with 9 images featuring a woman and man in an award-winning luxury luggage commercial. The story should have emotional highs and lows, ending on an elegant shot of the woman with the logo. The identity of the woman and man and their attire must stay consistent throughout but they can and should be seen from different angles and distances. Please generate images one at a time. Make sure every image is in a 16:9 landscape format.\"",
+                    "type": "blockquote"
+                  },
+                  {
+                    "key": "2n9ft",
+                    "data": {},
+                    "entityRanges": [
+                      {
+                        "key": 53,
+                        "length": 1,
+                        "offset": 0
+                      }
+                    ],
+                    "inlineStyleRanges": [],
+                    "text": " ",
+                    "type": "atomic"
+                  },
+                  {
+                    "key": "9omf4",
+                    "data": {},
+                    "entityRanges": [
+                      {
+                        "key": 54,
+                        "length": 19,
+                        "offset": 0
+                      }
+                    ],
+                    "inlineStyleRanges": [],
+                    "text": "Try it in AI Studio",
+                    "type": "unstyled"
+                  },
+                  {
+                    "key": "8qcpt",
+                    "data": {},
+                    "entityRanges": [
+                      {
+                        "key": 55,
+                        "length": 1,
+                        "offset": 0
+                      }
+                    ],
+                    "inlineStyleRanges": [],
+                    "text": " ",
+                    "type": "atomic"
+                  },
+                  {
+                    "key": "b7s0s",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [],
+                    "text": "9. Structural Control & Layout Guidance",
+                    "type": "header-two"
+                  },
+                  {
+                    "key": "fhf9g",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                      {
+                        "length": 22,
+                        "offset": 114,
+                        "style": "Bold"
+                      }
+                    ],
+                    "text": "Input images aren't limited to character references or subjects to edit. You can use them to strictly control the composition and layout of the final output. This is a game-changer for designers who need to turn a napkin sketch, a wireframe, or a specific grid layout into a polished asset.",
+                    "type": "unstyled"
+                  },
+                  {
+                    "key": "2m1qv",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                      {
+                        "length": 15,
+                        "offset": 0,
+                        "style": "Bold"
+                      }
+                    ],
+                    "text": "Best Practices:",
+                    "type": "unstyled"
+                  },
+                  {
+                    "key": "8s8aa",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                      {
+                        "length": 18,
+                        "offset": 0,
+                        "style": "Bold"
+                      }
+                    ],
+                    "text": "Drafts & Sketches: Upload a hand-drawn sketch to define exactly where the text and object should sit.",
+                    "type": "unordered-list-item"
+                  },
+                  {
+                    "key": "a3okc",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                      {
+                        "length": 11,
+                        "offset": 0,
+                        "style": "Bold"
+                      }
+                    ],
+                    "text": "Wireframes: Use screenshots of existing layouts or wireframes to generate high-fidelity UI mockups.",
+                    "type": "unordered-list-item"
+                  },
+                  {
+                    "key": "9q5up",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                      {
+                        "length": 6,
+                        "offset": 0,
+                        "style": "Bold"
+                      }
+                    ],
+                    "text": "Grids: Use grid images to force the model to generate assets for tile-based games or LED displays.",
+                    "type": "unordered-list-item"
+                  },
+                  {
+                    "key": "asb1v",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                      {
+                        "length": 16,
+                        "offset": 0,
+                        "style": "Bold"
+                      }
+                    ],
+                    "text": "Example Prompts:",
+                    "type": "unstyled"
+                  },
+                  {
+                    "key": "f5r3p",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                      {
+                        "length": 19,
+                        "offset": 0,
+                        "style": "Bold"
+                      }
+                    ],
+                    "text": "Sketch to Final Ad:\n\"Create a ad for a [product] following this sketch.\"",
+                    "type": "blockquote"
+                  },
+                  {
+                    "key": "1a4ad",
+                    "data": {},
+                    "entityRanges": [
+                      {
+                        "key": 56,
+                        "length": 1,
+                        "offset": 0
+                      }
+                    ],
+                    "inlineStyleRanges": [],
+                    "text": " ",
+                    "type": "atomic"
+                  },
+                  {
+                    "key": "9alsg",
+                    "data": {},
+                    "entityRanges": [
+                      {
+                        "key": 57,
+                        "length": 19,
+                        "offset": 0
+                      }
+                    ],
+                    "inlineStyleRanges": [
+                      {
+                        "length": 35,
+                        "offset": 20,
+                        "style": "Italic"
+                      }
+                    ],
+                    "text": "Try it in AI Studio (Note: Requires uploading a sketch)",
+                    "type": "unstyled"
+                  },
+                  {
+                    "key": "618ic",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                      {
+                        "length": 25,
+                        "offset": 0,
+                        "style": "Bold"
+                      }
+                    ],
+                    "text": "UI Mockup from Wireframe:\n\"Create a mock-up for a [product] following these guidelines.\"",
+                    "type": "blockquote"
+                  },
+                  {
+                    "key": "7rcvc",
+                    "data": {},
+                    "entityRanges": [
+                      {
+                        "key": 58,
+                        "length": 1,
+                        "offset": 0
+                      }
+                    ],
+                    "inlineStyleRanges": [],
+                    "text": " ",
+                    "type": "atomic"
+                  },
+                  {
+                    "key": "j7j",
+                    "data": {},
+                    "entityRanges": [
+                      {
+                        "key": 59,
+                        "length": 19,
+                        "offset": 0
+                      }
+                    ],
+                    "inlineStyleRanges": [
+                      {
+                        "length": 38,
+                        "offset": 20,
+                        "style": "Italic"
+                      }
+                    ],
+                    "text": "Try it in AI Studio (Note: Requires uploading a wireframe)",
+                    "type": "unstyled"
+                  },
+                  {
+                    "key": "abo8n",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                      {
+                        "length": 25,
+                        "offset": 0,
+                        "style": "Bold"
+                      },
+                      {
+                        "length": 128,
+                        "offset": 143,
+                        "style": "Italic"
+                      }
+                    ],
+                    "text": "Pixel Art & LED Displays:\n\"Generate a pixel art sprite of a unicorn that fits perfectly into this 64x64 grid image. Use high contrast colors.\"\n(Tip: Developers can then programmatically extract the center color of each cell to drive a connected 64x64 LED matrix display).",
+                    "type": "blockquote"
+                  },
+                  {
+                    "key": "elhej",
+                    "data": {},
+                    "entityRanges": [
+                      {
+                        "key": 60,
+                        "length": 1,
+                        "offset": 0
+                      }
+                    ],
+                    "inlineStyleRanges": [],
+                    "text": " ",
+                    "type": "atomic"
+                  },
+                  {
+                    "key": "ajhju",
+                    "data": {},
+                    "entityRanges": [
+                      {
+                        "key": 61,
+                        "length": 19,
+                        "offset": 0
+                      }
+                    ],
+                    "inlineStyleRanges": [
+                      {
+                        "length": 39,
+                        "offset": 20,
+                        "style": "Italic"
+                      }
+                    ],
+                    "text": "Try it in AI Studio (Note: Requires uploading a grid image)",
+                    "type": "unstyled"
+                  },
+                  {
+                    "key": "630gq",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                      {
+                        "length": 8,
+                        "offset": 0,
+                        "style": "Bold"
+                      }
+                    ],
+                    "text": "Sprites:\n\"Sprite sheet of a woman doing a backflip on a drone, 3x3 grid, sequence, frame by frame animation, square aspect ratio. Follow the structure of the attached reference image exactly..\"\n(Tip: You can then extract each cell and make a gif)",
+                    "type": "blockquote"
+                  },
+                  {
+                    "key": "8sdh2",
+                    "data": {},
+                    "entityRanges": [
+                      {
+                        "key": 62,
+                        "length": 1,
+                        "offset": 0
+                      }
+                    ],
+                    "inlineStyleRanges": [],
+                    "text": " ",
+                    "type": "atomic"
+                  },
+                  {
+                    "key": "5b37s",
+                    "data": {},
+                    "entityRanges": [
+                      {
+                        "key": 63,
+                        "length": 1,
+                        "offset": 0
+                      }
+                    ],
+                    "inlineStyleRanges": [],
+                    "text": " ",
+                    "type": "atomic"
+                  },
+                  {
+                    "key": "dr460",
+                    "data": {},
+                    "entityRanges": [
+                      {
+                        "key": 64,
+                        "length": 15,
+                        "offset": 0
+                      }
+                    ],
+                    "inlineStyleRanges": [],
+                    "text": "Try it in Colab",
+                    "type": "unstyled"
+                  },
+                  {
+                    "key": "7tcco",
+                    "data": {},
+                    "entityRanges": [
+                      {
+                        "key": 65,
+                        "length": 1,
+                        "offset": 0
+                      }
+                    ],
+                    "inlineStyleRanges": [],
+                    "text": " ",
+                    "type": "atomic"
+                  },
+                  {
+                    "key": "7ck3u",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [],
+                    "text": "10. What's Next?",
+                    "type": "header-two"
+                  },
+                  {
+                    "key": "6l83e",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [],
+                    "text": "Now that you have mastered the basics of prompting, here is how you can start building:",
+                    "type": "unstyled"
+                  },
+                  {
+                    "key": "5p58j",
+                    "data": {},
+                    "entityRanges": [
+                      {
+                        "key": 66,
+                        "length": 16,
+                        "offset": 22
+                      }
+                    ],
+                    "inlineStyleRanges": [
+                      {
+                        "length": 21,
+                        "offset": 0,
+                        "style": "Bold"
+                      }
+                    ],
+                    "text": "Experiment in the UI: Google AI Studio is the fastest way to test prompts and parameters.",
+                    "type": "unordered-list-item"
+                  },
+                  {
+                    "key": "dcukf",
+                    "data": {},
+                    "entityRanges": [
+                      {
+                        "key": 67,
+                        "length": 11,
+                        "offset": 49
+                      }
+                    ],
+                    "inlineStyleRanges": [
+                      {
+                        "length": 23,
+                        "offset": 18,
+                        "style": "Bold"
+                      }
+                    ],
+                    "text": "Check really cool Nano-banana powered app in the App Gallery.",
+                    "type": "unordered-list-item"
+                  },
+                  {
+                    "key": "at6c8",
+                    "data": {},
+                    "entityRanges": [
+                      {
+                        "key": 68,
+                        "length": 15,
+                        "offset": 110
+                      }
+                    ],
+                    "inlineStyleRanges": [
+                      {
+                        "length": 23,
+                        "offset": 0,
+                        "style": "Bold"
+                      }
+                    ],
+                    "text": "Vibe-code you dream app: Transform you best prompt into an app that you can easily share with your friends in AI Studio Build.",
+                    "type": "unordered-list-item"
+                  },
+                  {
+                    "key": "3h1o6",
+                    "data": {},
+                    "entityRanges": [
+                      {
+                        "key": 69,
+                        "length": 15,
+                        "offset": 49
+                      },
+                      {
+                        "key": 70,
+                        "length": 19,
+                        "offset": 72
+                      }
+                    ],
+                    "inlineStyleRanges": [
+                      {
+                        "length": 19,
+                        "offset": 0,
+                        "style": "Bold"
+                      }
+                    ],
+                    "text": "Build Applications: Ready to code? Check out the developer guide or the Gemini API Cookbook for guides and code snippets.",
+                    "type": "unordered-list-item"
+                  },
+                  {
+                    "key": "1ojnr",
+                    "data": {},
+                    "entityRanges": [
+                      {
+                        "key": 71,
+                        "length": 24,
+                        "offset": 35
+                      }
+                    ],
+                    "inlineStyleRanges": [
+                      {
+                        "length": 20,
+                        "offset": 0,
+                        "style": "Bold"
+                      }
+                    ],
+                    "text": "Technical Deep Dive: Read the full Gemini API Documentation for details on rate limits, pricing, and integration.",
+                    "type": "unordered-list-item"
+                  },
+                  {
+                    "key": "5grge",
+                    "data": {},
+                    "entityRanges": [
+                      {
+                        "key": 72,
+                        "length": 1,
+                        "offset": 0
+                      }
+                    ],
+                    "inlineStyleRanges": [],
+                    "text": "\n",
+                    "type": "unstyled"
+                  },
+                  {
+                    "key": "2p1dj",
+                    "data": {},
+                    "entityRanges": [],
+                    "inlineStyleRanges": [],
+                    "text": "",
+                    "type": "unstyled"
+                  }
+                ],
+                "entityMap": [
+                  {
+                    "key": "45",
+                    "value": {
+                      "type": "MEDIA",
+                      "mutability": "Immutable",
+                      "data": {
+                        "entityKey": "ad141ff8-89a8-43c6-8dbe-5d4723761ff5",
+                        "mediaItems": [
+                          {
+                            "localMediaId": "39",
+                            "mediaCategory": "DraftTweetImage",
+                            "mediaId": "1994458474605121537"
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "key": "34",
+                    "value": {
+                      "type": "MEDIA",
+                      "mutability": "Immutable",
+                      "data": {
+                        "entityKey": "c8be6cd7-7523-4bc6-be9e-804b4b8d185d",
+                        "mediaItems": [
+                          {
+                            "localMediaId": "57",
+                            "mediaCategory": "DraftTweetImage",
+                            "mediaId": "1994460367951728641"
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "key": "67",
+                    "value": {
+                      "type": "LINK",
+                      "mutability": "Mutable",
+                      "data": {
+                        "url": "https://aistudio.google.com/apps?source=showcase&showcaseTag=nano-banana"
+                      }
+                    }
+                  },
+                  {
+                    "key": "12",
+                    "value": {
+                      "type": "LINK",
+                      "mutability": "Mutable",
+                      "data": {
+                        "url": "https://aistudio.google.com/prompts/new_chat?prompt=Make%20a%20retro%2C%201950s-style%20infographic%20about%20the%20history%20of%20the%20American%20diner.%20Include%20distinct%20sections%20for%20%27The%20Food%2C%27%20%27The%20Jukebox%2C%27%20and%20%27The%20Decor.%27%20Ensure%20all%20text%20is%20legible%20and%20stylized%20to%20match%20the%20period.&model=gemini-3-pro-image-preview"
+                      }
+                    }
+                  },
+                  {
+                    "key": "66",
+                    "value": {
+                      "type": "LINK",
+                      "mutability": "Mutable",
+                      "data": {
+                        "url": "https://aistudio.google.com/"
+                      }
+                    }
+                  },
+                  {
+                    "key": "51",
+                    "value": {
+                      "type": "LINK",
+                      "mutability": "Mutable",
+                      "data": {
+                        "url": "https://aistudio.google.com/prompts/new_chat?prompt=Analyze%20this%20image%20of%20a%20room%20and%20generate%20a%20%27before%27%20image%20that%20shows%20what%20the%20room%20might%20have%20looked%20like%20during%20construction%2C%20showing%20the%20framing%20and%20unfinished%20drywall.&model=gemini-3-pro-image-preview"
+                      }
+                    }
+                  },
+                  {
+                    "key": "8",
+                    "value": {
+                      "type": "LINK",
+                      "mutability": "Mutable",
+                      "data": {
+                        "url": "https://s206.q4cdn.com/479360582/files/doc_news/2025/Oct/29/attachments/2025q3-alphabet-earnings-release.pdf"
+                      }
+                    }
+                  },
+                  {
+                    "key": "19",
+                    "value": {
+                      "type": "LINK",
+                      "mutability": "Mutable",
+                      "data": {
+                        "url": "https://aistudio.google.com/prompts/new_chat?prompt=Design%20a%20viral%20video%20thumbnail%20using%20the%20person%20from%20Image%201.%20Face%20Consistency%3A%20Keep%20the%20person%27s%20facial%20features%20exactly%20the%20same%20as%20Image%201%2C%20but%20change%20their%20expression%20to%20look%20excited%20and%20surprised.%20Action%3A%20Pose%20the%20person%20on%20the%20left%20side%2C%20pointing%20their%20finger%20towards%20the%20right%20side%20of%20the%20frame.%20Subject%3A%20On%20the%20right%20side%2C%20place%20a%20high-quality%20image%20of%20a%20delicious%20avocado%20toast.%20Graphics%3A%20Add%20a%20bold%20yellow%20arrow%20connecting%20the%20person%27s%20finger%20to%20the%20toast.%20Text%3A%20Overlay%20massive%2C%20pop-style%20text%20in%20the%20middle%3A%20%273%E5%88%86%E9%92%9F%E6%90%9E%E5%AE%9A!%27%20%28Done%20in%203%20mins!%29.%20Use%20a%20thick%20white%20outline%20and%20drop%20shadow.%20Background%3A%20A%20blurred%2C%20bright%20kitchen%20background.%20High%20saturation%20and%20contrast.&model=gemini-3-pro-image-preview"
+                      }
+                    }
+                  },
+                  {
+                    "key": "23",
+                    "value": {
+                      "type": "LINK",
+                      "mutability": "Mutable",
+                      "data": {
+                        "url": "https://aistudio.google.com/prompts/new_chat?prompt=Create%209%20stunning%20fashion%20shots%20as%20if%20they%E2%80%99re%20from%20an%20award-winning%20fashion%20editorial.%20Use%20this%20reference%20as%20the%20brand%20style%20but%20add%20nuance%20and%20variety%20to%20the%20range%20so%20they%20convey%20a%20professional%20design%20touch.%20Please%20generate%20nine%20images%2C%20one%20at%20a%20time.&model=gemini-3-pro-image-preview"
+                      }
+                    }
+                  },
+                  {
+                    "key": "62",
+                    "value": {
+                      "type": "MEDIA",
+                      "mutability": "Immutable",
+                      "data": {
+                        "entityKey": "36e5f31f-1a57-46d1-bf52-29a2ea9f1a68",
+                        "mediaItems": [
+                          {
+                            "localMediaId": "73",
+                            "mediaCategory": "DraftTweetImage",
+                            "mediaId": "1994460865094193153"
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "key": "4",
+                    "value": {
+                      "type": "TWEMOJI",
+                      "mutability": "Immutable",
+                      "data": {
+                        "url": "https://abs-0.twimg.com/emoji/v2/svg/1f6d1.svg"
+                      }
+                    }
+                  },
+                  {
+                    "key": "40",
+                    "value": {
+                      "type": "MEDIA",
+                      "mutability": "Immutable",
+                      "data": {
+                        "entityKey": "35d92057-21c5-4f70-8db1-f3d62d8e05a4",
+                        "mediaItems": [
+                          {
+                            "localMediaId": "53",
+                            "mediaCategory": "DraftTweetImage",
+                            "mediaId": "1994460297038630913"
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "key": "15",
+                    "value": {
+                      "type": "MEDIA",
+                      "mutability": "Immutable",
+                      "data": {
+                        "entityKey": "bb49ec72-1fee-4e33-bd18-9cd144da3295",
+                        "mediaItems": [
+                          {
+                            "localMediaId": "86",
+                            "mediaCategory": "DraftTweetImage",
+                            "mediaId": "1994462990658359296"
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "key": "11",
+                    "value": {
+                      "type": "MEDIA",
+                      "mutability": "Immutable",
+                      "data": {
+                        "entityKey": "627e4492-fae6-42a8-b198-c9901c349923",
+                        "mediaItems": [
+                          {
+                            "localMediaId": "45",
+                            "mediaCategory": "DraftTweetImage",
+                            "mediaId": "1994458762854502401"
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "key": "9",
+                    "value": {
+                      "type": "MEDIA",
+                      "mutability": "Immutable",
+                      "data": {
+                        "entityKey": "73f63146-b3f9-4912-8dd1-49054d0481a2",
+                        "mediaItems": [
+                          {
+                            "localMediaId": "51",
+                            "mediaCategory": "DraftTweetImage",
+                            "mediaId": "1994460177073147907"
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "key": "44",
+                    "value": {
+                      "type": "LINK",
+                      "mutability": "Mutable",
+                      "data": {
+                        "url": "https://aistudio.google.com/prompts/new_chat?prompt=Harness%20native%20high-fidelity%20output%20to%20craft%20a%20breathtaking%2C%20atmospheric%20environment%20of%20a%20mossy%20forest%20floor.%20Command%20complex%20lighting%20effects%20and%20delicate%20textures%2C%20ensuring%20every%20strand%20of%20moss%20and%20beam%20of%20light%20is%20rendered%20in%20pixel-perfect%20resolution%20suitable%20for%20a%204K%20wallpaper.&model=gemini-3-pro-image-preview"
+                      }
+                    }
+                  },
+                  {
+                    "key": "33",
+                    "value": {
+                      "type": "LINK",
+                      "mutability": "Mutable",
+                      "data": {
+                        "url": "https://aistudio.google.com/prompts/new_chat?prompt=Take%20this%20concept%20and%20localize%20it%20to%20a%20Tokyo%20setting%2C%20including%20translating%20the%20tagline%20into%20Japanese.%20Change%20the%20background%20to%20a%20bustling%20Shibuya%20street%20at%20night.&model=gemini-3-pro-image-preview"
+                      }
+                    }
+                  },
+                  {
+                    "key": "22",
+                    "value": {
+                      "type": "MEDIA",
+                      "mutability": "Immutable",
+                      "data": {
+                        "entityKey": "f773c8d1-079a-4a41-ab0a-0a3e5da6f1fa",
+                        "mediaItems": [
+                          {
+                            "localMediaId": "47",
+                            "mediaCategory": "DraftTweetImage",
+                            "mediaId": "1994460063218765824"
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "key": "56",
+                    "value": {
+                      "type": "MEDIA",
+                      "mutability": "Immutable",
+                      "data": {
+                        "entityKey": "c1405102-97ca-4542-88ce-5938e6dc0694",
+                        "mediaItems": [
+                          {
+                            "localMediaId": "69",
+                            "mediaCategory": "DraftTweetImage",
+                            "mediaId": "1994460797528129536"
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "key": "55",
+                    "value": {
+                      "type": "DIVIDER",
+                      "mutability": "Immutable",
+                      "data": {}
+                    }
+                  },
+                  {
+                    "key": "26",
+                    "value": {
+                      "type": "LINK",
+                      "mutability": "Mutable",
+                      "data": {
+                        "url": "https://aistudio-preprod.corp.google.com/prompts/new_chat?prompt=Create%20an%20image%20visualizing%20the%20current%20league%20standings%20of%20the%20top%20European%20football%20clubs%20and%20their%20recent%20form%20trends%20(last%205%20matches).%20For%20each%20team,%20add%20an%20explanation%20regarding%20recent%20results,%20injuries,%20or%20managerial%20changes%20that%20explain%20their%20current%20trajectory.&model=gemini-3-pro-image-preview"
+                      }
+                    }
+                  },
+                  {
+                    "key": "50",
+                    "value": {
+                      "type": "MEDIA",
+                      "mutability": "Immutable",
+                      "data": {
+                        "entityKey": "4820303e-ca10-4755-8cdd-e9a0f2063575",
+                        "mediaItems": [
+                          {
+                            "localMediaId": "49",
+                            "mediaCategory": "DraftTweetImage",
+                            "mediaId": "1994460112803786752"
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "key": "37",
+                    "value": {
+                      "type": "TWEMOJI",
+                      "mutability": "Immutable",
+                      "data": {
+                        "url": "https://abs-0.twimg.com/emoji/v2/svg/2194.svg"
+                      }
+                    }
+                  },
+                  {
+                    "key": "68",
+                    "value": {
+                      "type": "LINK",
+                      "mutability": "Mutable",
+                      "data": {
+                        "url": "https://aistudio.google.com/apps"
+                      }
+                    }
+                  },
+                  {
+                    "key": "61",
+                    "value": {
+                      "type": "LINK",
+                      "mutability": "Mutable",
+                      "data": {
+                        "url": "https://aistudio.google.com/prompts/new_chat?prompt=Generate%20a%20pixel%20art%20sprite%20of%20a%20unicorn%20that%20fits%20perfectly%20into%20this%2064x64%20grid%20image.%20Use%20high%20contrast%20colors.&model=gemini-3-pro-image-preview"
+                      }
+                    }
+                  },
+                  {
+                    "key": "13",
+                    "value": {
+                      "type": "MEDIA",
+                      "mutability": "Immutable",
+                      "data": {
+                        "entityKey": "c01a7de7-cdeb-436f-9e64-b20afce5ba34",
+                        "mediaItems": [
+                          {
+                            "localMediaId": "37",
+                            "mediaCategory": "DraftTweetImage",
+                            "mediaId": "1994458434922844160"
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "key": "46",
+                    "value": {
+                      "type": "LINK",
+                      "mutability": "Mutable",
+                      "data": {
+                        "url": "https://aistudio.google.com/prompts/new_chat?prompt=Create%20a%20hyper-realistic%20infographic%20of%20a%20gourmet%20cheeseburger%2C%20deconstructed%20to%20show%20the%20texture%20of%20the%20toasted%20brioche%20bun%2C%20the%20seared%20crust%20of%20the%20patty%2C%20and%20the%20glistening%20melt%20of%20the%20cheese.%20Label%20each%20layer%20with%20its%20flavor%20profile.&model=gemini-3-pro-image-preview"
+                      }
+                    }
+                  },
+                  {
+                    "key": "24",
+                    "value": {
+                      "type": "DIVIDER",
+                      "mutability": "Immutable",
+                      "data": {}
+                    }
+                  },
+                  {
+                    "key": "35",
+                    "value": {
+                      "type": "LINK",
+                      "mutability": "Mutable",
+                      "data": {
+                        "url": "https://aistudio.google.com/prompts/new_chat?prompt=Turn%20this%20scene%20into%20winter%20time.%20Keep%20the%20house%20architecture%20exactly%20the%20same%2C%20but%20add%20snow%20to%20the%20roof%20and%20yard%2C%20and%20change%20the%20lighting%20to%20a%20cold%2C%20overcast%20afternoon.&model=gemini-3-pro-image-preview"
+                      }
+                    }
+                  },
+                  {
+                    "key": "16",
+                    "value": {
+                      "type": "LINK",
+                      "mutability": "Mutable",
+                      "data": {
+                        "url": "https://aistudio.google.com/prompts/new_chat?prompt=Summarize%20the%20concept%20of%20%27Transformer%20Neural%20Network%20Architecture%27%20as%20a%20hand-drawn%20whiteboard%20diagram%20suitable%20for%20a%20university%20lecture.%20Use%20different%20colored%20markers%20for%20the%20Encoder%20and%20Decoder%20blocks%2C%20and%20include%20legible%20labels%20for%20%27Self-Attention%27%20and%20%27Feed%20Forward%27.&model=gemini-3-pro-image-preview"
+                      }
+                    }
+                  },
+                  {
+                    "key": "5",
+                    "value": {
+                      "type": "TWEMOJI",
+                      "mutability": "Immutable",
+                      "data": {
+                        "url": "https://abs-0.twimg.com/emoji/v2/svg/274c.svg"
+                      }
+                    }
+                  },
+                  {
+                    "key": "72",
+                    "value": {
+                      "type": "LINK",
+                      "mutability": "Mutable",
+                      "data": {
+                        "url": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fej883k4hdvceoweevlo8.png"
+                      }
+                    }
+                  },
+                  {
+                    "key": "10",
+                    "value": {
+                      "type": "LINK",
+                      "mutability": "Mutable",
+                      "data": {
+                        "url": "https://aistudio.google.com/prompts/new_chat?prompt=Generate%20a%20clean%2C%20modern%20infographic%20summarizing%20the%20key%20financial%20highlights%20from%20this%20earnings%20report.%20Include%20charts%20for%20%27Revenue%20Growth%27%20and%20%27Net%20Income%27%2C%20and%20highlight%20the%20CEO%27s%20key%20quote%20in%20a%20stylized%20pull-quote%20box.&model=gemini-3-pro-image-preview"
+                      }
+                    }
+                  },
+                  {
+                    "key": "59",
+                    "value": {
+                      "type": "LINK",
+                      "mutability": "Mutable",
+                      "data": {
+                        "url": "https://aistudio.google.com/prompts/new_chat?prompt=Generate%20a%20photorealistic%20UI%20mockup%20for%20a%20fitness%20tracking%20app%20based%20on%20this%20wireframe.%20Replace%20the%20placeholder%20boxes%20with%20high-quality%20images%20of%20runners%20and%20data%20visualization%20charts%2C%20but%20strictly%20adhere%20to%20the%20button%20placement%20and%20grid%20structure.&model=gemini-3-pro-image-preview"
+                      }
+                    }
+                  },
+                  {
+                    "key": "48",
+                    "value": {
+                      "type": "MEDIA",
+                      "mutability": "Immutable",
+                      "data": {
+                        "entityKey": "45ac0bd2-bea9-4d4e-897c-582ce39503d7",
+                        "mediaItems": [
+                          {
+                            "localMediaId": "89",
+                            "mediaCategory": "DraftTweetImage",
+                            "mediaId": "1994466994993991683"
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "key": "21",
+                    "value": {
+                      "type": "LINK",
+                      "mutability": "Mutable",
+                      "data": {
+                        "url": "https://aistudio.google.com/prompts/new_chat?prompt=Create%20a%20funny%2010-part%20story%20with%20these%203%20fluffy%20friends%20going%20on%20a%20tropical%20vacation.%20The%20story%20is%20thrilling%20throughout%20with%20emotional%20highs%20and%20lows%20and%20ends%20in%20a%20happy%20moment.%20Keep%20the%20attire%20and%20identity%20consistent%20for%20all%203%20characters%2C%20but%20their%20expressions%20and%20angles%20should%20vary%20throughout%20all%2010%20images.%20Make%20sure%20to%20only%20have%20one%20of%20each%20character%20in%20each%20image.&model=gemini-3-pro-image-preview"
+                      }
+                    }
+                  },
+                  {
+                    "key": "54",
+                    "value": {
+                      "type": "LINK",
+                      "mutability": "Mutable",
+                      "data": {
+                        "url": "https://aistudio.google.com/prompts/new_chat?prompt=Create%20an%20addictively%20intriguing%209-part%20story%20with%209%20images%20featuring%20a%20woman%20and%20man%20in%20an%20award-winning%20luxury%20luggage%20commercial.%20The%20story%20should%20have%20emotional%20highs%20and%20lows%2C%20ending%20on%20an%20elegant%20shot%20of%20the%20woman%20with%20the%20logo.%20The%20identity%20of%20the%20woman%20and%20man%20and%20their%20attire%20must%20stay%20consistent%20throughout%20but%20they%20can%20and%20should%20be%20seen%20from%20different%20angles%20and%20distances.%20Please%20generate%20images%20one%20at%20a%20time.%20Make%20sure%20every%20image%20is%20in%20a%2016%3A9%20landscape%20format.&model=gemini-3-pro-image-preview"
+                      }
+                    }
+                  },
+                  {
+                    "key": "43",
+                    "value": {
+                      "type": "MEDIA",
+                      "mutability": "Immutable",
+                      "data": {
+                        "entityKey": "16408de1-20b4-497d-bb43-6ba4c0257a84",
+                        "mediaItems": [
+                          {
+                            "localMediaId": "83",
+                            "mediaCategory": "DraftTweetImage",
+                            "mediaId": "1994461124352512002"
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "key": "65",
+                    "value": {
+                      "type": "DIVIDER",
+                      "mutability": "Immutable",
+                      "data": {}
+                    }
+                  },
+                  {
+                    "key": "71",
+                    "value": {
+                      "type": "LINK",
+                      "mutability": "Mutable",
+                      "data": {
+                        "url": "https://ai.google.dev/gemini-api/docs"
+                      }
+                    }
+                  },
+                  {
+                    "key": "57",
+                    "value": {
+                      "type": "LINK",
+                      "mutability": "Mutable",
+                      "data": {
+                        "url": "https://aistudio.google.com/prompts/new_chat?prompt=Create%20a%20high-end%20magazine%20advertisement%20for%20a%20luxury%20perfume%20brand%20called%20%27Nebula%27%20based%20on%20this%20hand-drawn%20sketch.%20Keep%20the%20exact%20layout%20of%20the%20bottle%20and%20text%20placement%2C%20but%20render%20it%20in%20a%20photorealistic%20style%20with%20a%20galaxy-themed%20background.&model=gemini-3-pro-image-preview"
+                      }
+                    }
+                  },
+                  {
+                    "key": "32",
+                    "value": {
+                      "type": "MEDIA",
+                      "mutability": "Immutable",
+                      "data": {
+                        "entityKey": "63461ca8-db18-43c7-a354-1f55a7772631",
+                        "mediaItems": [
+                          {
+                            "localMediaId": "41",
+                            "mediaCategory": "DraftTweetImage",
+                            "mediaId": "1994458626141163523"
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "key": "49",
+                    "value": {
+                      "type": "LINK",
+                      "mutability": "Mutable",
+                      "data": {
+                        "url": "https://aistudio.google.com/prompts/new_chat?prompt=Solve%20log_%7Bx%2B1%7D(x%5E2%2B1)%3D2%20in%20C%20on%20a%20white%20board.%20Show%20the%20steps%20clearly.&model=gemini-3-pro-image-preview"
+                      }
+                    }
+                  },
+                  {
+                    "key": "6",
+                    "value": {
+                      "type": "TWEMOJI",
+                      "mutability": "Immutable",
+                      "data": {
+                        "url": "https://abs-0.twimg.com/emoji/v2/svg/2705.svg"
+                      }
+                    }
+                  },
+                  {
+                    "key": "36",
+                    "value": {
+                      "type": "DIVIDER",
+                      "mutability": "Immutable",
+                      "data": {}
+                    }
+                  },
+                  {
+                    "key": "1",
+                    "value": {
+                      "type": "LINK",
+                      "mutability": "Mutable",
+                      "data": {
+                        "url": "https://ai.studio/"
+                      }
+                    }
+                  },
+                  {
+                    "key": "39",
+                    "value": {
+                      "type": "LINK",
+                      "mutability": "Mutable",
+                      "data": {
+                        "url": "https://aistudio.google.com/prompts/new_chat?prompt=Based%20on%20the%20uploaded%202D%20floor%20plan%2C%20generate%20a%20professional%20interior%20design%20presentation%20board%20in%20a%20single%20image.%20Layout%3A%20A%20collage%20with%20one%20large%20main%20image%20at%20the%20top%20(wide-angle%20perspective%20of%20the%20living%20area)%2C%20and%20three%20smaller%20images%20below%20(Master%20Bedroom%2C%20Home%20Office%2C%20and%20a%203D%20top-down%20floor%20plan).%20Style%3A%20Apply%20a%20Modern%20Minimalist%20style%20with%20warm%20oak%20wood%20flooring%20and%20off-white%20walls%20across%20ALL%20images.%20Quality%3A%20Photorealistic%20rendering%2C%20soft%20natural%20lighting.&model=gemini-3-pro-image-preview"
+                      }
+                    }
+                  },
+                  {
+                    "key": "17",
+                    "value": {
+                      "type": "DIVIDER",
+                      "mutability": "Immutable",
+                      "data": {}
+                    }
+                  },
+                  {
+                    "key": "25",
+                    "value": {
+                      "type": "MEDIA",
+                      "mutability": "Immutable",
+                      "data": {
+                        "entityKey": "600d937e-1a35-456f-9782-3688874bfa3e",
+                        "mediaItems": [
+                          {
+                            "localMediaId": "67",
+                            "mediaCategory": "DraftTweetImage",
+                            "mediaId": "1994460768860012544"
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "key": "60",
+                    "value": {
+                      "type": "MEDIA",
+                      "mutability": "Immutable",
+                      "data": {
+                        "entityKey": "9b385a82-ff53-4c91-beb2-de16520abc07",
+                        "mediaItems": [
+                          {
+                            "localMediaId": "79",
+                            "mediaCategory": "DraftTweetImage",
+                            "mediaId": "1994461064915030016"
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "key": "14",
+                    "value": {
+                      "type": "LINK",
+                      "mutability": "Mutable",
+                      "data": {
+                        "url": "https://aistudio.google.com/prompts/new_chat?prompt=Create%20an%20orthographic%20blueprint%20that%20describes%20this%20building%20in%20plan%2C%20elevation%2C%20and%20section.%20Label%20the%20%27North%20Elevation%27%20and%20%27Main%20Entrance%27%20clearly%20in%20technical%20architectural%20font.%20Format%2016%3A9.&model=gemini-3-pro-image-preview"
+                      }
+                    }
+                  },
+                  {
+                    "key": "47",
+                    "value": {
+                      "type": "DIVIDER",
+                      "mutability": "Immutable",
+                      "data": {}
+                    }
+                  },
+                  {
+                    "key": "31",
+                    "value": {
+                      "type": "LINK",
+                      "mutability": "Mutable",
+                      "data": {
+                        "url": "https://aistudio.google.com/prompts/new_chat?prompt=Colorize%20this%20manga%20panel.%20Use%20a%20vibrant%20anime%20style%20palette.%20Ensure%20the%20lighting%20effects%20on%20the%20energy%20beams%20are%20glowing%20neon%20blue%20and%20the%20character%27s%20outfit%20is%20consistent%20with%20their%20official%20colors.&model=gemini-3-pro-image-preview"
+                      }
+                    }
+                  },
+                  {
+                    "key": "69",
+                    "value": {
+                      "type": "LINK",
+                      "mutability": "Mutable",
+                      "data": {
+                        "url": "https://dev.to/googleai/introducing-nano-banana-pro-complete-developer-tutorial-5fc8"
+                      }
+                    }
+                  },
+                  {
+                    "key": "58",
+                    "value": {
+                      "type": "MEDIA",
+                      "mutability": "Immutable",
+                      "data": {
+                        "entityKey": "03303bcd-3d36-4390-8e6b-9275252779de",
+                        "mediaItems": [
+                          {
+                            "localMediaId": "65",
+                            "mediaCategory": "DraftTweetImage",
+                            "mediaId": "1994460682054766593"
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "key": "64",
+                    "value": {
+                      "type": "LINK",
+                      "mutability": "Mutable",
+                      "data": {
+                        "url": "https://colab.sandbox.google.com/github/google-gemini/cookbook/blob/main/quickstarts/Get_Started_Nano_Banana.ipynb#scrollTo=xuQeyK-teUf1"
+                      }
+                    }
+                  },
+                  {
+                    "key": "53",
+                    "value": {
+                      "type": "MEDIA",
+                      "mutability": "Immutable",
+                      "data": {
+                        "entityKey": "620d9a02-3da8-4c15-bacc-2f287cef665e",
+                        "mediaItems": [
+                          {
+                            "localMediaId": "77",
+                            "mediaCategory": "DraftTweetImage",
+                            "mediaId": "1994461031792603136"
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "key": "42",
+                    "value": {
+                      "type": "DIVIDER",
+                      "mutability": "Immutable",
+                      "data": {}
+                    }
+                  },
+                  {
+                    "key": "0",
+                    "value": {
+                      "type": "LINK",
+                      "mutability": "Mutable",
+                      "data": {
+                        "url": "https://dev.to/googleai/introducing-nano-banana-pro-complete-developer-tutorial-5fc8"
+                      }
+                    }
+                  },
+                  {
+                    "key": "20",
+                    "value": {
+                      "type": "MEDIA",
+                      "mutability": "Immutable",
+                      "data": {
+                        "entityKey": "386a9795-15ff-46c5-827e-f7f300fe08fc",
+                        "mediaItems": [
+                          {
+                            "localMediaId": "55",
+                            "mediaCategory": "DraftTweetImage",
+                            "mediaId": "1994460336951627776"
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "key": "27",
+                    "value": {
+                      "type": "DIVIDER",
+                      "mutability": "Immutable",
+                      "data": {}
+                    }
+                  },
+                  {
+                    "key": "70",
+                    "value": {
+                      "type": "LINK",
+                      "mutability": "Mutable",
+                      "data": {
+                        "url": "https://colab.sandbox.google.com/github/google-gemini/cookbook/blob/main/quickstarts/Get_Started_Nano_Banana.ipynb#nano-banana-pro"
+                      }
+                    }
+                  },
+                  {
+                    "key": "2",
+                    "value": {
+                      "type": "TWEMOJI",
+                      "mutability": "Immutable",
+                      "data": {
+                        "url": "https://abs-0.twimg.com/emoji/v2/svg/2194.svg"
+                      }
+                    }
+                  },
+                  {
+                    "key": "38",
+                    "value": {
+                      "type": "MEDIA",
+                      "mutability": "Immutable",
+                      "data": {
+                        "entityKey": "4fec03c6-ac1f-46ac-8824-6c712198459a",
+                        "mediaItems": [
+                          {
+                            "localMediaId": "59",
+                            "mediaCategory": "DraftTweetImage",
+                            "mediaId": "1994460393348239363"
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "key": "18",
+                    "value": {
+                      "type": "MEDIA",
+                      "mutability": "Immutable",
+                      "data": {
+                        "entityKey": "81c7d620-bee0-4d99-ba9b-a4c73ddc4c47",
+                        "mediaItems": [
+                          {
+                            "localMediaId": "81",
+                            "mediaCategory": "DraftTweetImage",
+                            "mediaId": "1994461092966547457"
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "key": "30",
+                    "value": {
+                      "type": "MEDIA",
+                      "mutability": "Immutable",
+                      "data": {
+                        "entityKey": "ea811104-0282-4100-9223-bb05f7fc4dfd",
+                        "mediaItems": [
+                          {
+                            "localMediaId": "61",
+                            "mediaCategory": "DraftTweetImage",
+                            "mediaId": "1994460431738642432"
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "key": "7",
+                    "value": {
+                      "type": "DIVIDER",
+                      "mutability": "Immutable",
+                      "data": {}
+                    }
+                  },
+                  {
+                    "key": "29",
+                    "value": {
+                      "type": "LINK",
+                      "mutability": "Mutable",
+                      "data": {
+                        "url": "https://aistudio.google.com/prompts/new_chat?prompt=Remove%20the%20tourists%20from%20the%20background%20of%20this%20photo%20and%20fill%20the%20space%20with%20logical%20textures%20(cobblestones%20and%20storefronts)%20that%20match%20the%20surrounding%20environment.&model=gemini-3-pro-image-preview"
+                      }
+                    }
+                  },
+                  {
+                    "key": "41",
+                    "value": {
+                      "type": "LINK",
+                      "mutability": "Mutable",
+                      "data": {
+                        "url": "https://aistudio.google.com/prompts/new_chat?prompt=Turn%20the%20%27This%20is%20Fine%27%20dog%20meme%20into%20a%20photorealistic%203D%20render.%20Keep%20the%20composition%20identical%20but%20make%20the%20dog%20look%20like%20a%20plush%20toy%20and%20the%20fire%20look%20like%20realistic%20flames.&model=gemini-3-pro-image-preview"
+                      }
+                    }
+                  },
+                  {
+                    "key": "63",
+                    "value": {
+                      "type": "MEDIA",
+                      "mutability": "Immutable",
+                      "data": {
+                        "entityKey": "64ddd93e-2ad9-476a-9033-83a1c4ae6443",
+                        "mediaItems": [
+                          {
+                            "localMediaId": "71",
+                            "mediaCategory": "DraftTweetGif",
+                            "mediaId": "1994460823494987776"
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "key": "3",
+                    "value": {
+                      "type": "DIVIDER",
+                      "mutability": "Immutable",
+                      "data": {}
+                    }
+                  },
+                  {
+                    "key": "52",
+                    "value": {
+                      "type": "DIVIDER",
+                      "mutability": "Immutable",
+                      "data": {}
+                    }
+                  },
+                  {
+                    "key": "28",
+                    "value": {
+                      "type": "MEDIA",
+                      "mutability": "Immutable",
+                      "data": {
+                        "entityKey": "a43999f8-7783-4bc1-bf81-d9afcb4c3653",
+                        "mediaItems": [
+                          {
+                            "localMediaId": "43",
+                            "mediaCategory": "DraftTweetImage",
+                            "mediaId": "1994458661989777408"
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              },
+              "media_entities": [
+                {
+                  "id": "QXBpTWVkaWE6DAAFCgABG62/01NbkAIKAAIYMBueqZugAQAA",
+                  "media_key": "3_1994461124352512002",
+                  "media_id": "1994461124352512002",
+                  "media_info": {
+                    "__typename": "ApiImage",
+                    "original_img_height": 1536,
+                    "original_img_width": 2752,
+                    "original_img_url": "https://pbs.twimg.com/media/G62_01NbkAI_E4f.jpg",
+                    "color_info": {
+                      "palette": [
+                        {
+                          "percentage": 51.13,
+                          "rgb": {
+                            "blue": 26,
+                            "green": 47,
+                            "red": 44
+                          }
+                        },
+                        {
+                          "percentage": 27.95,
+                          "rgb": {
+                            "blue": 93,
+                            "green": 123,
+                            "red": 123
+                          }
+                        },
+                        {
+                          "percentage": 7.85,
+                          "rgb": {
+                            "blue": 36,
+                            "green": 98,
+                            "red": 90
+                          }
+                        },
+                        {
+                          "percentage": 4.48,
+                          "rgb": {
+                            "blue": 5,
+                            "green": 12,
+                            "red": 9
+                          }
+                        },
+                        {
+                          "percentage": 4.03,
+                          "rgb": {
+                            "blue": 176,
+                            "green": 199,
+                            "red": 210
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "id": "QXBpTWVkaWE6DAAFCgABG629lgMaAAAKAAIYMBueqZugAQAA",
+                  "media_key": "3_1994458661989777408",
+                  "media_id": "1994458661989777408",
+                  "media_info": {
+                    "__typename": "ApiImage",
+                    "original_img_height": 2048,
+                    "original_img_width": 2048,
+                    "original_img_url": "https://pbs.twimg.com/media/G629lgMaAAAJFGW.jpg",
+                    "color_info": {
+                      "palette": [
+                        {
+                          "percentage": 49.46,
+                          "rgb": {
+                            "blue": 161,
+                            "green": 176,
+                            "red": 181
+                          }
+                        },
+                        {
+                          "percentage": 20.32,
+                          "rgb": {
+                            "blue": 82,
+                            "green": 104,
+                            "red": 121
+                          }
+                        },
+                        {
+                          "percentage": 14.88,
+                          "rgb": {
+                            "blue": 44,
+                            "green": 56,
+                            "red": 60
+                          }
+                        },
+                        {
+                          "percentage": 2.59,
+                          "rgb": {
+                            "blue": 30,
+                            "green": 143,
+                            "red": 195
+                          }
+                        },
+                        {
+                          "percentage": 1.78,
+                          "rgb": {
+                            "blue": 226,
+                            "green": 212,
+                            "red": 195
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "id": "QXBpTWVkaWE6DAAFCgABG62+3ELbkAAKAAIYMBueqZugAQAA",
+                  "media_key": "3_1994460063218765824",
+                  "media_id": "1994460063218765824",
+                  "media_info": {
+                    "__typename": "ApiImage",
+                    "original_img_height": 1920,
+                    "original_img_width": 1080,
+                    "original_img_url": "https://pbs.twimg.com/media/G62-3ELbkAAYn0s.jpg",
+                    "color_info": {
+                      "palette": [
+                        {
+                          "percentage": 71.05,
+                          "rgb": {
+                            "blue": 12,
+                            "green": 14,
+                            "red": 14
+                          }
+                        },
+                        {
+                          "percentage": 12.89,
+                          "rgb": {
+                            "blue": 21,
+                            "green": 43,
+                            "red": 74
+                          }
+                        },
+                        {
+                          "percentage": 5.86,
+                          "rgb": {
+                            "blue": 126,
+                            "green": 157,
+                            "red": 198
+                          }
+                        },
+                        {
+                          "percentage": 2.91,
+                          "rgb": {
+                            "blue": 57,
+                            "green": 64,
+                            "red": 36
+                          }
+                        },
+                        {
+                          "percentage": 2.68,
+                          "rgb": {
+                            "blue": 76,
+                            "green": 53,
+                            "red": 46
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "id": "QXBpTWVkaWE6DAAFCgABG629japbkAMKAAIYMBueqZugAQAA",
+                  "media_key": "3_1994458626141163523",
+                  "media_id": "1994458626141163523",
+                  "media_info": {
+                    "__typename": "ApiImage",
+                    "original_img_height": 2528,
+                    "original_img_width": 1696,
+                    "original_img_url": "https://pbs.twimg.com/media/G629japbkAMrIwh.jpg",
+                    "color_info": {
+                      "palette": [
+                        {
+                          "percentage": 38.75,
+                          "rgb": {
+                            "blue": 43,
+                            "green": 42,
+                            "red": 37
+                          }
+                        },
+                        {
+                          "percentage": 15.82,
+                          "rgb": {
+                            "blue": 189,
+                            "green": 192,
+                            "red": 192
+                          }
+                        },
+                        {
+                          "percentage": 6.4,
+                          "rgb": {
+                            "blue": 27,
+                            "green": 18,
+                            "red": 166
+                          }
+                        },
+                        {
+                          "percentage": 4.22,
+                          "rgb": {
+                            "blue": 39,
+                            "green": 38,
+                            "red": 118
+                          }
+                        },
+                        {
+                          "percentage": 2.04,
+                          "rgb": {
+                            "blue": 53,
+                            "green": 137,
+                            "red": 193
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "id": "QXBpTWVkaWE6DAAFCgABG62/hzsbQAAKAAIYMBueqZugAQAA",
+                  "media_key": "3_1994460797528129536",
+                  "media_id": "1994460797528129536",
+                  "media_info": {
+                    "__typename": "ApiImage",
+                    "original_img_height": 1536,
+                    "original_img_width": 2752,
+                    "original_img_url": "https://pbs.twimg.com/media/G62_hzsbQAAj846.jpg",
+                    "color_info": {
+                      "palette": [
+                        {
+                          "percentage": 55.46,
+                          "rgb": {
+                            "blue": 253,
+                            "green": 254,
+                            "red": 254
+                          }
+                        },
+                        {
+                          "percentage": 17.24,
+                          "rgb": {
+                            "blue": 47,
+                            "green": 49,
+                            "red": 42
+                          }
+                        },
+                        {
+                          "percentage": 4.38,
+                          "rgb": {
+                            "blue": 58,
+                            "green": 22,
+                            "red": 20
+                          }
+                        },
+                        {
+                          "percentage": 3.93,
+                          "rgb": {
+                            "blue": 149,
+                            "green": 195,
+                            "red": 213
+                          }
+                        },
+                        {
+                          "percentage": 2.39,
+                          "rgb": {
+                            "blue": 33,
+                            "green": 85,
+                            "red": 66
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "id": "QXBpTWVkaWE6DAAFCgABG62/zASbwAEKAAIYMBueqZugAQAA",
+                  "media_key": "3_1994461092966547457",
+                  "media_id": "1994461092966547457",
+                  "media_info": {
+                    "__typename": "ApiImage",
+                    "original_img_height": 1536,
+                    "original_img_width": 2816,
+                    "original_img_url": "https://pbs.twimg.com/media/G62_zASbwAEH-0e.jpg",
+                    "color_info": {
+                      "palette": [
+                        {
+                          "percentage": 42.1,
+                          "rgb": {
+                            "blue": 210,
+                            "green": 220,
+                            "red": 229
+                          }
+                        },
+                        {
+                          "percentage": 15.58,
+                          "rgb": {
+                            "blue": 118,
+                            "green": 166,
+                            "red": 207
+                          }
+                        },
+                        {
+                          "percentage": 8.58,
+                          "rgb": {
+                            "blue": 27,
+                            "green": 33,
+                            "red": 38
+                          }
+                        },
+                        {
+                          "percentage": 5.48,
+                          "rgb": {
+                            "blue": 44,
+                            "green": 160,
+                            "red": 162
+                          }
+                        },
+                        {
+                          "percentage": 5.47,
+                          "rgb": {
+                            "blue": 5,
+                            "green": 225,
+                            "red": 246
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "id": "QXBpTWVkaWE6DAAFCgABG62/MhBaoAAKAAIYMBueqZugAQAA",
+                  "media_key": "3_1994460431738642432",
+                  "media_id": "1994460431738642432",
+                  "media_info": {
+                    "__typename": "ApiImage",
+                    "original_img_height": 1792,
+                    "original_img_width": 2400,
+                    "original_img_url": "https://pbs.twimg.com/media/G62_MhBaoAAQ9YV.jpg",
+                    "color_info": {
+                      "palette": [
+                        {
+                          "percentage": 57.94,
+                          "rgb": {
+                            "blue": 209,
+                            "green": 213,
+                            "red": 213
+                          }
+                        },
+                        {
+                          "percentage": 8.04,
+                          "rgb": {
+                            "blue": 215,
+                            "green": 182,
+                            "red": 118
+                          }
+                        },
+                        {
+                          "percentage": 5.24,
+                          "rgb": {
+                            "blue": 91,
+                            "green": 139,
+                            "red": 213
+                          }
+                        },
+                        {
+                          "percentage": 4.57,
+                          "rgb": {
+                            "blue": 146,
+                            "green": 199,
+                            "red": 229
+                          }
+                        },
+                        {
+                          "percentage": 2.7,
+                          "rgb": {
+                            "blue": 84,
+                            "green": 65,
+                            "red": 76
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "id": "QXBpTWVkaWE6DAAFCgABG629rX8bkAEKAAIYMBueqZugAQAA",
+                  "media_key": "3_1994458762854502401",
+                  "media_id": "1994458762854502401",
+                  "media_info": {
+                    "__typename": "ApiImage",
+                    "original_img_height": 768,
+                    "original_img_width": 1408,
+                    "original_img_url": "https://pbs.twimg.com/media/G629rX8bkAEgS14.jpg",
+                    "color_info": {
+                      "palette": [
+                        {
+                          "percentage": 40,
+                          "rgb": {
+                            "blue": 179,
+                            "green": 209,
+                            "red": 223
+                          }
+                        },
+                        {
+                          "percentage": 31.07,
+                          "rgb": {
+                            "blue": 176,
+                            "green": 178,
+                            "red": 134
+                          }
+                        },
+                        {
+                          "percentage": 9.99,
+                          "rgb": {
+                            "blue": 139,
+                            "green": 137,
+                            "red": 172
+                          }
+                        },
+                        {
+                          "percentage": 5.6,
+                          "rgb": {
+                            "blue": 81,
+                            "green": 83,
+                            "red": 74
+                          }
+                        },
+                        {
+                          "percentage": 4.71,
+                          "rgb": {
+                            "blue": 180,
+                            "green": 211,
+                            "red": 172
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "id": "QXBpTWVkaWE6DAAFCgABG62+585a8AAKAAIYMBueqZugAQAA",
+                  "media_key": "3_1994460112803786752",
+                  "media_id": "1994460112803786752",
+                  "media_info": {
+                    "__typename": "ApiImage",
+                    "original_img_height": 2048,
+                    "original_img_width": 2048,
+                    "original_img_url": "https://pbs.twimg.com/media/G62-585a8AAZKGj.jpg",
+                    "color_info": {
+                      "palette": [
+                        {
+                          "percentage": 34.8,
+                          "rgb": {
+                            "blue": 52,
+                            "green": 72,
+                            "red": 92
+                          }
+                        },
+                        {
+                          "percentage": 31.77,
+                          "rgb": {
+                            "blue": 179,
+                            "green": 185,
+                            "red": 186
+                          }
+                        },
+                        {
+                          "percentage": 22.39,
+                          "rgb": {
+                            "blue": 105,
+                            "green": 117,
+                            "red": 125
+                          }
+                        },
+                        {
+                          "percentage": 14.26,
+                          "rgb": {
+                            "blue": 104,
+                            "green": 126,
+                            "red": 145
+                          }
+                        },
+                        {
+                          "percentage": 4.1,
+                          "rgb": {
+                            "blue": 19,
+                            "green": 26,
+                            "red": 36
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "id": "QXBpTWVkaWE6DAAFCgABG629amIbEAEKAAIYMBueqZugAQAA",
+                  "media_key": "3_1994458474605121537",
+                  "media_id": "1994458474605121537",
+                  "media_info": {
+                    "__typename": "ApiImage",
+                    "original_img_height": 1536,
+                    "original_img_width": 2752,
+                    "original_img_url": "https://pbs.twimg.com/media/G629amIbEAEzPDx.jpg",
+                    "color_info": {
+                      "palette": [
+                        {
+                          "percentage": 72.4,
+                          "rgb": {
+                            "blue": 23,
+                            "green": 24,
+                            "red": 23
+                          }
+                        },
+                        {
+                          "percentage": 8.9,
+                          "rgb": {
+                            "blue": 23,
+                            "green": 57,
+                            "red": 106
+                          }
+                        },
+                        {
+                          "percentage": 6.1,
+                          "rgb": {
+                            "blue": 24,
+                            "green": 101,
+                            "red": 181
+                          }
+                        },
+                        {
+                          "percentage": 3.97,
+                          "rgb": {
+                            "blue": 106,
+                            "green": 164,
+                            "red": 212
+                          }
+                        },
+                        {
+                          "percentage": 1.3,
+                          "rgb": {
+                            "blue": 31,
+                            "green": 169,
+                            "red": 236
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "id": "QXBpTWVkaWE6DAAGCgABG62/jUbaEAAKAAIYMBueqZugAQAA",
+                  "media_key": "16_1994460823494987776",
+                  "media_id": "1994460823494987776",
+                  "media_info": {
+                    "__typename": "ApiGif",
+                    "aspect_ratio": {
+                      "denominator": 1,
+                      "numerator": 1
+                    },
+                    "preview_image": {
+                      "original_img_height": 340,
+                      "original_img_width": 340,
+                      "original_img_url": "https://pbs.twimg.com/tweet_video_thumb/G62_jUbaEAAmO4f.jpg",
+                      "color_info": {
+                        "palette": [
+                          {
+                            "percentage": 44.23,
+                            "rgb": {
+                              "blue": 236,
+                              "green": 213,
+                              "red": 145
+                            }
+                          },
+                          {
+                            "percentage": 25.35,
+                            "rgb": {
+                              "blue": 65,
+                              "green": 53,
+                              "red": 41
+                            }
+                          },
+                          {
+                            "percentage": 17.03,
+                            "rgb": {
+                              "blue": 154,
+                              "green": 112,
+                              "red": 72
+                            }
+                          },
+                          {
+                            "percentage": 9.17,
+                            "rgb": {
+                              "blue": 128,
+                              "green": 130,
+                              "red": 120
+                            }
+                          },
+                          {
+                            "percentage": 1.06,
+                            "rgb": {
+                              "blue": 52,
+                              "green": 59,
+                              "red": 78
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    "variants": [
+                      {
+                        "bit_rate": 0,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/tweet_video/G62_jUbaEAAmO4f.mp4"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "id": "QXBpTWVkaWE6DAAFCgABG62/xXybkAAKAAIYMBueqZugAQAA",
+                  "media_key": "3_1994461064915030016",
+                  "media_id": "1994461064915030016",
+                  "media_info": {
+                    "__typename": "ApiImage",
+                    "original_img_height": 2048,
+                    "original_img_width": 2048,
+                    "original_img_url": "https://pbs.twimg.com/media/G62_xXybkAAXSS0.jpg",
+                    "color_info": {
+                      "palette": [
+                        {
+                          "percentage": 79.25,
+                          "rgb": {
+                            "blue": 244,
+                            "green": 244,
+                            "red": 244
+                          }
+                        },
+                        {
+                          "percentage": 10.1,
+                          "rgb": {
+                            "blue": 4,
+                            "green": 4,
+                            "red": 4
+                          }
+                        },
+                        {
+                          "percentage": 1.9,
+                          "rgb": {
+                            "blue": 5,
+                            "green": 9,
+                            "red": 249
+                          }
+                        },
+                        {
+                          "percentage": 1.59,
+                          "rgb": {
+                            "blue": 10,
+                            "green": 240,
+                            "red": 83
+                          }
+                        },
+                        {
+                          "percentage": 1.41,
+                          "rgb": {
+                            "blue": 8,
+                            "green": 235,
+                            "red": 250
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "id": "QXBpTWVkaWE6DAAFCgABG63Bhdva0AAKAAIYMBueqZugAQAA",
+                  "media_key": "3_1994462990658359296",
+                  "media_id": "1994462990658359296",
+                  "media_info": {
+                    "__typename": "ApiImage",
+                    "original_img_height": 1536,
+                    "original_img_width": 2816,
+                    "original_img_url": "https://pbs.twimg.com/media/G63Bhdva0AAQSk-.jpg",
+                    "color_info": {
+                      "palette": [
+                        {
+                          "percentage": 96.36,
+                          "rgb": {
+                            "blue": 200,
+                            "green": 206,
+                            "red": 210
+                          }
+                        },
+                        {
+                          "percentage": 1.77,
+                          "rgb": {
+                            "blue": 176,
+                            "green": 188,
+                            "red": 158
+                          }
+                        },
+                        {
+                          "percentage": 1.09,
+                          "rgb": {
+                            "blue": 123,
+                            "green": 129,
+                            "red": 132
+                          }
+                        },
+                        {
+                          "percentage": 0.7,
+                          "rgb": {
+                            "blue": 161,
+                            "green": 165,
+                            "red": 206
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "id": "QXBpTWVkaWE6DAAFCgABG629YSTbkAAKAAIYMBueqZugAQAA",
+                  "media_key": "3_1994458434922844160",
+                  "media_id": "1994458434922844160",
+                  "media_info": {
+                    "__typename": "ApiImage",
+                    "original_img_height": 1536,
+                    "original_img_width": 2752,
+                    "original_img_url": "https://pbs.twimg.com/media/G629YSTbkAAX1fs.jpg",
+                    "color_info": {
+                      "palette": [
+                        {
+                          "percentage": 98.68,
+                          "rgb": {
+                            "blue": 192,
+                            "green": 129,
+                            "red": 77
+                          }
+                        },
+                        {
+                          "percentage": 0.89,
+                          "rgb": {
+                            "blue": 70,
+                            "green": 48,
+                            "red": 29
+                          }
+                        },
+                        {
+                          "percentage": 0.41,
+                          "rgb": {
+                            "blue": 200,
+                            "green": 132,
+                            "red": 79
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "id": "QXBpTWVkaWE6DAAFCgABG62+9sUbkAMKAAIYMBueqZugAQAA",
+                  "media_key": "3_1994460177073147907",
+                  "media_id": "1994460177073147907",
+                  "media_info": {
+                    "__typename": "ApiImage",
+                    "original_img_height": 1536,
+                    "original_img_width": 2816,
+                    "original_img_url": "https://pbs.twimg.com/media/G62-9sUbkAMhgpc.jpg",
+                    "color_info": {
+                      "palette": [
+                        {
+                          "percentage": 85.46,
+                          "rgb": {
+                            "blue": 249,
+                            "green": 245,
+                            "red": 242
+                          }
+                        },
+                        {
+                          "percentage": 2.72,
+                          "rgb": {
+                            "blue": 103,
+                            "green": 169,
+                            "red": 81
+                          }
+                        },
+                        {
+                          "percentage": 2.31,
+                          "rgb": {
+                            "blue": 237,
+                            "green": 201,
+                            "red": 179
+                          }
+                        },
+                        {
+                          "percentage": 1.81,
+                          "rgb": {
+                            "blue": 233,
+                            "green": 139,
+                            "red": 79
+                          }
+                        },
+                        {
+                          "percentage": 0.9,
+                          "rgb": {
+                            "blue": 61,
+                            "green": 79,
+                            "red": 231
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "id": "QXBpTWVkaWE6DAAFCgABG62/bFhbkAEKAAIYMBueqZugAQAA",
+                  "media_key": "3_1994460682054766593",
+                  "media_id": "1994460682054766593",
+                  "media_info": {
+                    "__typename": "ApiImage",
+                    "original_img_height": 1536,
+                    "original_img_width": 2752,
+                    "original_img_url": "https://pbs.twimg.com/media/G62_bFhbkAEsIJj.jpg",
+                    "color_info": {
+                      "palette": [
+                        {
+                          "percentage": 68.51,
+                          "rgb": {
+                            "blue": 224,
+                            "green": 228,
+                            "red": 229
+                          }
+                        },
+                        {
+                          "percentage": 8.54,
+                          "rgb": {
+                            "blue": 70,
+                            "green": 40,
+                            "red": 26
+                          }
+                        },
+                        {
+                          "percentage": 6.18,
+                          "rgb": {
+                            "blue": 161,
+                            "green": 184,
+                            "red": 207
+                          }
+                        },
+                        {
+                          "percentage": 4.2,
+                          "rgb": {
+                            "blue": 93,
+                            "green": 115,
+                            "red": 179
+                          }
+                        },
+                        {
+                          "percentage": 3.16,
+                          "rgb": {
+                            "blue": 221,
+                            "green": 189,
+                            "red": 128
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "id": "QXBpTWVkaWE6DAAFCgABG62/vcZbcAAKAAIYMBueqZugAQAA",
+                  "media_key": "3_1994461031792603136",
+                  "media_id": "1994461031792603136",
+                  "media_info": {
+                    "__typename": "ApiImage",
+                    "original_img_height": 1536,
+                    "original_img_width": 2752,
+                    "original_img_url": "https://pbs.twimg.com/media/G62_vcZbcAAZpYT.jpg",
+                    "color_info": {
+                      "palette": [
+                        {
+                          "percentage": 30.49,
+                          "rgb": {
+                            "blue": 196,
+                            "green": 200,
+                            "red": 197
+                          }
+                        },
+                        {
+                          "percentage": 16.32,
+                          "rgb": {
+                            "blue": 39,
+                            "green": 46,
+                            "red": 50
+                          }
+                        },
+                        {
+                          "percentage": 12.84,
+                          "rgb": {
+                            "blue": 132,
+                            "green": 153,
+                            "red": 175
+                          }
+                        },
+                        {
+                          "percentage": 7.12,
+                          "rgb": {
+                            "blue": 72,
+                            "green": 46,
+                            "red": 31
+                          }
+                        },
+                        {
+                          "percentage": 6.16,
+                          "rgb": {
+                            "blue": 40,
+                            "green": 78,
+                            "red": 117
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "id": "QXBpTWVkaWE6DAAFCgABG63FKjDbkAMKAAIYMBueqZugAQAA",
+                  "media_key": "3_1994466994993991683",
+                  "media_id": "1994466994993991683",
+                  "media_info": {
+                    "__typename": "ApiImage",
+                    "original_img_height": 436,
+                    "original_img_width": 800,
+                    "original_img_url": "https://pbs.twimg.com/media/G63FKjDbkAM9_ix.png",
+                    "color_info": {
+                      "palette": [
+                        {
+                          "percentage": 88.29,
+                          "rgb": {
+                            "blue": 203,
+                            "green": 202,
+                            "red": 196
+                          }
+                        },
+                        {
+                          "percentage": 11.26,
+                          "rgb": {
+                            "blue": 114,
+                            "green": 113,
+                            "red": 106
+                          }
+                        },
+                        {
+                          "percentage": 0.44,
+                          "rgb": {
+                            "blue": 61,
+                            "green": 45,
+                            "red": 28
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "id": "QXBpTWVkaWE6DAAFCgABG62/G/6bkAAKAAIYMBueqZugAQAA",
+                  "media_key": "3_1994460336951627776",
+                  "media_id": "1994460336951627776",
+                  "media_info": {
+                    "__typename": "ApiImage",
+                    "original_img_height": 2752,
+                    "original_img_width": 1536,
+                    "original_img_url": "https://pbs.twimg.com/media/G62_G_6bkAAaGHX.jpg",
+                    "color_info": {
+                      "palette": [
+                        {
+                          "percentage": 22.17,
+                          "rgb": {
+                            "blue": 224,
+                            "green": 224,
+                            "red": 177
+                          }
+                        },
+                        {
+                          "percentage": 12.96,
+                          "rgb": {
+                            "blue": 145,
+                            "green": 184,
+                            "red": 211
+                          }
+                        },
+                        {
+                          "percentage": 10.17,
+                          "rgb": {
+                            "blue": 229,
+                            "green": 194,
+                            "red": 109
+                          }
+                        },
+                        {
+                          "percentage": 9.53,
+                          "rgb": {
+                            "blue": 93,
+                            "green": 138,
+                            "red": 105
+                          }
+                        },
+                        {
+                          "percentage": 5.09,
+                          "rgb": {
+                            "blue": 88,
+                            "green": 135,
+                            "red": 201
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "id": "QXBpTWVkaWE6DAAFCgABG62/IzZbkAEKAAIYMBueqZugAQAA",
+                  "media_key": "3_1994460367951728641",
+                  "media_id": "1994460367951728641",
+                  "media_info": {
+                    "__typename": "ApiImage",
+                    "original_img_height": 2528,
+                    "original_img_width": 1696,
+                    "original_img_url": "https://pbs.twimg.com/media/G62_IzZbkAE8O7n.jpg",
+                    "color_info": {
+                      "palette": [
+                        {
+                          "percentage": 35.8,
+                          "rgb": {
+                            "blue": 78,
+                            "green": 96,
+                            "red": 98
+                          }
+                        },
+                        {
+                          "percentage": 31.55,
+                          "rgb": {
+                            "blue": 186,
+                            "green": 190,
+                            "red": 189
+                          }
+                        },
+                        {
+                          "percentage": 8.81,
+                          "rgb": {
+                            "blue": 123,
+                            "green": 124,
+                            "red": 116
+                          }
+                        },
+                        {
+                          "percentage": 8.39,
+                          "rgb": {
+                            "blue": 83,
+                            "green": 156,
+                            "red": 158
+                          }
+                        },
+                        {
+                          "percentage": 1.65,
+                          "rgb": {
+                            "blue": 32,
+                            "green": 49,
+                            "red": 49
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "id": "QXBpTWVkaWE6DAAFCgABG62/lvZbkAEKAAIYMBueqZugAQAA",
+                  "media_key": "3_1994460865094193153",
+                  "media_id": "1994460865094193153",
+                  "media_info": {
+                    "__typename": "ApiImage",
+                    "original_img_height": 1024,
+                    "original_img_width": 1024,
+                    "original_img_url": "https://pbs.twimg.com/media/G62_lvZbkAEwMPf.jpg",
+                    "color_info": {
+                      "palette": [
+                        {
+                          "percentage": 41.3,
+                          "rgb": {
+                            "blue": 231,
+                            "green": 208,
+                            "red": 140
+                          }
+                        },
+                        {
+                          "percentage": 27.34,
+                          "rgb": {
+                            "blue": 73,
+                            "green": 59,
+                            "red": 47
+                          }
+                        },
+                        {
+                          "percentage": 16.99,
+                          "rgb": {
+                            "blue": 152,
+                            "green": 112,
+                            "red": 70
+                          }
+                        },
+                        {
+                          "percentage": 7.94,
+                          "rgb": {
+                            "blue": 125,
+                            "green": 125,
+                            "red": 119
+                          }
+                        },
+                        {
+                          "percentage": 1.82,
+                          "rgb": {
+                            "blue": 71,
+                            "green": 78,
+                            "red": 93
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "id": "QXBpTWVkaWE6DAAFCgABG62/gI5agAAKAAIYMBueqZugAQAA",
+                  "media_key": "3_1994460768860012544",
+                  "media_id": "1994460768860012544",
+                  "media_info": {
+                    "__typename": "ApiImage",
+                    "original_img_height": 1536,
+                    "original_img_width": 2752,
+                    "original_img_url": "https://pbs.twimg.com/media/G62_gI5agAAynni.jpg",
+                    "color_info": {
+                      "palette": [
+                        {
+                          "percentage": 70.46,
+                          "rgb": {
+                            "blue": 214,
+                            "green": 230,
+                            "red": 234
+                          }
+                        },
+                        {
+                          "percentage": 9.44,
+                          "rgb": {
+                            "blue": 111,
+                            "green": 192,
+                            "red": 154
+                          }
+                        },
+                        {
+                          "percentage": 5.85,
+                          "rgb": {
+                            "blue": 80,
+                            "green": 121,
+                            "red": 43
+                          }
+                        },
+                        {
+                          "percentage": 3.96,
+                          "rgb": {
+                            "blue": 64,
+                            "green": 154,
+                            "red": 243
+                          }
+                        },
+                        {
+                          "percentage": 2.94,
+                          "rgb": {
+                            "blue": 99,
+                            "green": 223,
+                            "red": 249
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "id": "QXBpTWVkaWE6DAAFCgABG62/ErObkAEKAAIYMBueqZugAQAA",
+                  "media_key": "3_1994460297038630913",
+                  "media_id": "1994460297038630913",
+                  "media_info": {
+                    "__typename": "ApiImage",
+                    "original_img_height": 1536,
+                    "original_img_width": 2752,
+                    "original_img_url": "https://pbs.twimg.com/media/G62_ErObkAE43rL.jpg",
+                    "color_info": {
+                      "palette": [
+                        {
+                          "percentage": 44.23,
+                          "rgb": {
+                            "blue": 20,
+                            "green": 44,
+                            "red": 82
+                          }
+                        },
+                        {
+                          "percentage": 22.8,
+                          "rgb": {
+                            "blue": 32,
+                            "green": 88,
+                            "red": 157
+                          }
+                        },
+                        {
+                          "percentage": 14.24,
+                          "rgb": {
+                            "blue": 85,
+                            "green": 186,
+                            "red": 246
+                          }
+                        },
+                        {
+                          "percentage": 5.85,
+                          "rgb": {
+                            "blue": 7,
+                            "green": 19,
+                            "red": 38
+                          }
+                        },
+                        {
+                          "percentage": 2.46,
+                          "rgb": {
+                            "blue": 137,
+                            "green": 227,
+                            "red": 250
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "id": "QXBpTWVkaWE6DAAFCgABG62/KSAbkAMKAAIYMBueqZugAQAA",
+                  "media_key": "3_1994460393348239363",
+                  "media_id": "1994460393348239363",
+                  "media_info": {
+                    "__typename": "ApiImage",
+                    "original_img_height": 1536,
+                    "original_img_width": 2816,
+                    "original_img_url": "https://pbs.twimg.com/media/G62_KSAbkAMytBh.jpg",
+                    "color_info": {
+                      "palette": [
+                        {
+                          "percentage": 48.25,
+                          "rgb": {
+                            "blue": 186,
+                            "green": 200,
+                            "red": 207
+                          }
+                        },
+                        {
+                          "percentage": 41.54,
+                          "rgb": {
+                            "blue": 71,
+                            "green": 108,
+                            "red": 141
+                          }
+                        },
+                        {
+                          "percentage": 3.98,
+                          "rgb": {
+                            "blue": 129,
+                            "green": 165,
+                            "red": 187
+                          }
+                        },
+                        {
+                          "percentage": 3.72,
+                          "rgb": {
+                            "blue": 25,
+                            "green": 44,
+                            "red": 66
+                          }
+                        },
+                        {
+                          "percentage": 2.3,
+                          "rgb": {
+                            "blue": 105,
+                            "green": 120,
+                            "red": 129
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ],
+              "lifecycle_state": {
+                "modified_at_secs": 1764356150
+              },
+              "metadata": {
+                "first_published_at_secs": 1764356150
+              }
+            }
+          }
+        },
+        "legacy": {
+          "bookmark_count": 7477,
+          "bookmarked": false,
+          "created_at": "Fri Nov 28 18:55:50 +0000 2025",
+          "conversation_id_str": "1994480371061469306",
+          "display_text_range": [
+            0,
+            23
+          ],
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "timestamps": [],
+            "urls": [
+              {
+                "display_url": "x.com/i/article/1994…",
+                "expanded_url": "http://x.com/i/article/1994455406228508672",
+                "url": "https://t.co/oN9JI5C1Xh",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ],
+            "user_mentions": []
+          },
+          "favorite_count": 4194,
+          "favorited": false,
+          "full_text": "https://t.co/oN9JI5C1Xh",
+          "is_quote_status": false,
+          "lang": "zxx",
+          "possibly_sensitive": false,
+          "possibly_sensitive_editable": true,
+          "quote_count": 158,
+          "reply_count": 78,
+          "retweet_count": 706,
+          "retweeted": false,
+          "user_id_str": "1742923424056713217",
+          "id_str": "1994480371061469306"
+        }
+      }
+    }
+  }
+}
+Error fetching post: ZodError: [
+  {
+    "expected": "object",
+    "code": "invalid_type",
+    "path": [
+      "data",
+      "tweetResult",
+      "result",
+      "article",
+      "article"
+    ],
+    "message": "Invalid input: expected object, received undefined"
+  }
+]
+    at new ZodError (file:///Users/ericwu/projects/work/xtract-js/node_modules/zod/v4/core/core.js:39:39)
+    at Module.<anonymous> (file:///Users/ericwu/projects/work/xtract-js/node_modules/zod/v4/core/parse.js:40:20)
+    at inst.safeParse (file:///Users/ericwu/projects/work/xtract-js/node_modules/zod/v4/classic/schemas.js:28:46)
+    at fetchTweet (/Users/ericwu/projects/work/xtract-js/src/api.ts:60:36)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async main (/Users/ericwu/projects/work/xtract-js/examples/debug.ts:10:18)

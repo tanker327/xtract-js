@@ -1,0 +1,445 @@
+{
+  "rest_id": "1995582026830020847",
+  "core": {
+    "user_results": {
+      "result": {
+        "is_blue_verified": true,
+        "legacy": {
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1739948056",
+          "followers_count": 229219976,
+          "friends_count": 1236,
+          "statuses_count": 90304,
+          "listed_count": 165464,
+          "media_count": 4250,
+          "description": "",
+          "default_profile": false,
+          "default_profile_image": false,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "fast_followers_count": 0,
+          "favourites_count": 186658,
+          "has_custom_timelines": true,
+          "is_translator": false,
+          "normal_followers_count": 229219976,
+          "pinned_tweet_ids_str": [
+            "1995277243325850034"
+          ],
+          "possibly_sensitive": false,
+          "profile_interstitial_type": "",
+          "translator_type": "none",
+          "withheld_in_countries": []
+        },
+        "core": {
+          "name": "Elon Musk",
+          "screen_name": "elonmusk"
+        }
+      }
+    }
+  },
+  "views": {
+    "count": "27991772"
+  },
+  "legacy": {
+    "full_text": "Yeah",
+    "created_at": "Mon Dec 01 19:53:25 +0000 2025",
+    "favorite_count": 93669,
+    "retweet_count": 9941,
+    "reply_count": 5004,
+    "entities": {
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": []
+    }
+  },
+  "__typename": "Tweet",
+  "unmention_data": {},
+  "edit_control": {
+    "edit_tweet_ids": [
+      "1995582026830020847"
+    ],
+    "editable_until_msecs": "1764622405000",
+    "is_edit_eligible": true,
+    "edits_remaining": "5"
+  },
+  "is_translatable": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "quoted_status_result": {
+    "result": {
+      "__typename": "Tweet",
+      "rest_id": "1995475349807763905",
+      "core": {
+        "user_results": {
+          "result": {
+            "__typename": "User",
+            "id": "VXNlcjoxNDQzNzAzMjkyNjQ3OTQwMDk4",
+            "rest_id": "1443703292647940098",
+            "affiliates_highlighted_label": {},
+            "avatar": {
+              "image_url": "https://pbs.twimg.com/profile_images/1744457101370368000/qLqXxHuU_normal.jpg"
+            },
+            "core": {
+              "created_at": "Thu Sep 30 22:24:42 +0000 2021",
+              "name": "Startup Archive",
+              "screen_name": "StartupArchive_"
+            },
+            "dm_permissions": {},
+            "is_blue_verified": true,
+            "legacy": {
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "Archiving the world's best startup advice for future generations of founders | New project: @foundertribune",
+              "entities": {
+                "description": {
+                  "urls": []
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "startuparchive.org",
+                      "expanded_url": "http://startuparchive.org",
+                      "url": "https://t.co/RagHsmkac9",
+                      "indices": [
+                        0,
+                        23
+                      ]
+                    }
+                  ]
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 19063,
+              "followers_count": 112768,
+              "friends_count": 2,
+              "has_custom_timelines": true,
+              "is_translator": false,
+              "listed_count": 877,
+              "media_count": 2466,
+              "normal_followers_count": 112768,
+              "pinned_tweet_ids_str": [
+                "1855231680237474259"
+              ],
+              "possibly_sensitive": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1443703292647940098/1706059268",
+              "profile_interstitial_type": "",
+              "statuses_count": 4722,
+              "translator_type": "none",
+              "url": "https://t.co/RagHsmkac9",
+              "withheld_in_countries": []
+            },
+            "location": {
+              "location": "Full Archive →"
+            },
+            "media_permissions": {},
+            "parody_commentary_fan_label": "None",
+            "profile_image_shape": "Circle",
+            "professional": {
+              "rest_id": "1483119259681271809",
+              "professional_type": "Creator",
+              "category": []
+            },
+            "profile_bio": {
+              "description": "Archiving the world's best startup advice for future generations of founders | New project: @foundertribune"
+            },
+            "privacy": {
+              "protected": false
+            },
+            "relationship_perspectives": {},
+            "tipjar_settings": {
+              "is_enabled": false,
+              "bandcamp_handle": "",
+              "bitcoin_handle": "",
+              "cash_app_handle": "",
+              "ethereum_handle": "",
+              "gofundme_handle": "",
+              "patreon_handle": "",
+              "pay_pal_handle": "",
+              "venmo_handle": ""
+            },
+            "verification": {
+              "verified": false
+            },
+            "profile_description_language": "en"
+          }
+        }
+      },
+      "unmention_data": {},
+      "edit_control": {
+        "edit_tweet_ids": [
+          "1995475349807763905"
+        ],
+        "editable_until_msecs": "1764596972000",
+        "is_edit_eligible": false,
+        "edits_remaining": "5"
+      },
+      "is_translatable": false,
+      "views": {
+        "count": "29185224",
+        "state": "EnabledWithCount"
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "note_tweet": {
+        "is_expandable": true,
+        "note_tweet_results": {
+          "result": {
+            "id": "Tm90ZVR3ZWV0OjE5OTU0NzUzNDk1MDE1MTc4MzI=",
+            "text": "Elon Musk: “Anyone who wants to make more than they take has my respect”\n\nElon is asked for his advice for entrepreneurs, to which he responds:\n\n“I’m a big fan of anyone who wants to build. Anyone who wants to make more than they take has my respect. That’s the main thing you should aim for: to make more than you take and be a net contributor to society.”\n\nHe compares it to the pursuit of happiness:\n\n“If you want to create something valuable financially, you don’t pursue that. It’s best to pursue providing useful products and services. If you do that, money will come as a natural consequence of that rather than pursuing money directly. You can’t pursue happiness directly. You pursue things that lead to happiness — fulfilling work, study, friends, loved ones.”\n\nElon continues:\n\n“It sounds very obvious, but generally if somebody is trying to make a company work, they should expect to grind super hard and accept that there’s a meaningful chance of failure. Then just focus on having the output be worth more than the input. Are you a value creator? That’s what really matters: making more than you take.”\n\nVideo source: @nikhilkamathcio (2025)",
+            "entity_set": {
+              "hashtags": [],
+              "symbols": [],
+              "timestamps": [],
+              "urls": [],
+              "user_mentions": [
+                {
+                  "id_str": "2708715396",
+                  "name": "Nikhil Kamath",
+                  "screen_name": "nikhilkamathcio",
+                  "indices": [
+                    1131,
+                    1147
+                  ]
+                }
+              ]
+            },
+            "richtext": {
+              "richtext_tags": [
+                {
+                  "from_index": 0,
+                  "to_index": 72,
+                  "richtext_types": [
+                    "Bold"
+                  ]
+                }
+              ]
+            },
+            "media": {
+              "inline_media": []
+            }
+          }
+        }
+      },
+      "legacy": {
+        "bookmark_count": 10868,
+        "bookmarked": false,
+        "created_at": "Mon Dec 01 12:49:32 +0000 2025",
+        "conversation_id_str": "1995475349807763905",
+        "display_text_range": [
+          0,
+          276
+        ],
+        "entities": {
+          "hashtags": [],
+          "media": [
+            {
+              "display_url": "pic.x.com/Nb7iuk4nIB",
+              "expanded_url": "https://x.com/StartupArchive_/status/1995475349807763905/video/1",
+              "id_str": "1995460151252328448",
+              "indices": [
+                277,
+                300
+              ],
+              "media_key": "13_1995460151252328448",
+              "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1995460151252328448/img/Y351hE-etLKXzZxW.jpg",
+              "type": "video",
+              "url": "https://t.co/Nb7iuk4nIB",
+              "additional_media_info": {
+                "monetizable": false
+              },
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "sizes": {
+                "large": {
+                  "h": 1152,
+                  "w": 2048,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "h": 675,
+                  "w": 1200,
+                  "resize": "fit"
+                },
+                "small": {
+                  "h": 383,
+                  "w": 680,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "h": 150,
+                  "w": 150,
+                  "resize": "crop"
+                }
+              },
+              "original_info": {
+                "height": 2160,
+                "width": 3840,
+                "focus_rects": []
+              },
+              "allow_download_status": {
+                "allow_download": true
+              },
+              "video_info": {
+                "aspect_ratio": [
+                  16,
+                  9
+                ],
+                "duration_millis": 109400,
+                "variants": [
+                  {
+                    "content_type": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/amplify_video/1995460151252328448/pl/5i7mlAzSIWx18oUh.m3u8?tag=21&v=499"
+                  },
+                  {
+                    "bitrate": 256000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/1995460151252328448/vid/avc1/480x270/airSKMnZuhJMk4NB.mp4?tag=21"
+                  },
+                  {
+                    "bitrate": 832000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/1995460151252328448/vid/avc1/640x360/sHahPD4WbgOqD5EE.mp4?tag=21"
+                  },
+                  {
+                    "bitrate": 2176000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/1995460151252328448/vid/avc1/1280x720/WWkTrgVNE0BercMU.mp4?tag=21"
+                  },
+                  {
+                    "bitrate": 10368000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/1995460151252328448/vid/avc1/1920x1080/u1ThkmfQEpTxB_ac.mp4?tag=21"
+                  },
+                  {
+                    "bitrate": 25128000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/1995460151252328448/vid/avc1/3840x2160/fATu7IZxIK4H1TER.mp4?tag=21"
+                  }
+                ]
+              },
+              "media_results": {
+                "result": {
+                  "media_key": "13_1995460151252328448"
+                }
+              }
+            }
+          ],
+          "symbols": [],
+          "timestamps": [],
+          "urls": [],
+          "user_mentions": []
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "display_url": "pic.x.com/Nb7iuk4nIB",
+              "expanded_url": "https://x.com/StartupArchive_/status/1995475349807763905/video/1",
+              "id_str": "1995460151252328448",
+              "indices": [
+                277,
+                300
+              ],
+              "media_key": "13_1995460151252328448",
+              "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1995460151252328448/img/Y351hE-etLKXzZxW.jpg",
+              "type": "video",
+              "url": "https://t.co/Nb7iuk4nIB",
+              "additional_media_info": {
+                "monetizable": false
+              },
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "sizes": {
+                "large": {
+                  "h": 1152,
+                  "w": 2048,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "h": 675,
+                  "w": 1200,
+                  "resize": "fit"
+                },
+                "small": {
+                  "h": 383,
+                  "w": 680,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "h": 150,
+                  "w": 150,
+                  "resize": "crop"
+                }
+              },
+              "original_info": {
+                "height": 2160,
+                "width": 3840,
+                "focus_rects": []
+              },
+              "allow_download_status": {
+                "allow_download": true
+              },
+              "video_info": {
+                "aspect_ratio": [
+                  16,
+                  9
+                ],
+                "duration_millis": 109400,
+                "variants": [
+                  {
+                    "content_type": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/amplify_video/1995460151252328448/pl/5i7mlAzSIWx18oUh.m3u8?tag=21&v=499"
+                  },
+                  {
+                    "bitrate": 256000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/1995460151252328448/vid/avc1/480x270/airSKMnZuhJMk4NB.mp4?tag=21"
+                  },
+                  {
+                    "bitrate": 832000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/1995460151252328448/vid/avc1/640x360/sHahPD4WbgOqD5EE.mp4?tag=21"
+                  },
+                  {
+                    "bitrate": 2176000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/1995460151252328448/vid/avc1/1280x720/WWkTrgVNE0BercMU.mp4?tag=21"
+                  },
+                  {
+                    "bitrate": 10368000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/1995460151252328448/vid/avc1/1920x1080/u1ThkmfQEpTxB_ac.mp4?tag=21"
+                  },
+                  {
+                    "bitrate": 25128000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/1995460151252328448/vid/avc1/3840x2160/fATu7IZxIK4H1TER.mp4?tag=21"
+                  }
+                ]
+              },
+              "media_results": {
+                "result": {
+                  "media_key": "13_1995460151252328448"
+                }
+              }
+            }
+          ]
+        },
+        "favorite_count": 25144,
+        "favorited": false,
+        "full_text": "Elon Musk: “Anyone who wants to make more than they take has my respect”\n\nElon is asked for his advice for entrepreneurs, to which he responds:\n\n“I’m a big fan of anyone who wants to build. Anyone who wants to make more than they take has my respect. That’s the main thing you https://t.co/Nb7iuk4nIB",
+        "is_quote_status": false,
+        "lang": "en",
+        "possibly_sensitive": false,
+        "possibly_sensitive_editable": true,
+        "quote_count": 454,
+        "reply_count": 1003,
+        "retweet_count": 3975,
+        "retweeted": false,
+        "user_id_str": "1443703292647940098",
+        "id_str": "1995475349807763905"
+      }
+    }
+  }
+}

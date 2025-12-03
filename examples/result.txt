@@ -1,0 +1,100 @@
+Fetching post: 1995352357232681053...
+Successfully fetched post:
+{
+  "rest_id": "1995352357232681053",
+  "core": {
+    "user_results": {
+      "result": {
+        "legacy": {
+          "default_profile": true,
+          "default_profile_image": false,
+          "description": "🎬 Documenting Elon Musk through original video clips. | By @jonaslismont",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {
+              "urls": [
+                {
+                  "display_url": "elonfacts.creator-spring.com",
+                  "expanded_url": "http://elonfacts.creator-spring.com",
+                  "url": "https://t.co/KruVdGFZLj",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            }
+          },
+          "fast_followers_count": 0,
+          "favourites_count": 18424,
+          "followers_count": 186497,
+          "friends_count": 1,
+          "has_custom_timelines": false,
+          "is_translator": false,
+          "listed_count": 673,
+          "media_count": 3398,
+          "normal_followers_count": 186497,
+          "pinned_tweet_ids_str": [],
+          "possibly_sensitive": false,
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591001290846388225/1729870758",
+          "profile_interstitial_type": "",
+          "statuses_count": 8161,
+          "translator_type": "none",
+          "url": "https://t.co/KruVdGFZLj",
+          "withheld_in_countries": []
+        },
+        "core": {
+          "name": "ELON CLIPS",
+          "screen_name": "ElonClipsX"
+        }
+      }
+    }
+  },
+  "legacy": {
+    "full_text": "Elon Musk: 𝕏 doesn't put its thumb on the scale beyond the laws of a country.\n\n“What I've tried to do is just restore it to be balanced and cen
+trist. There haven't been any left-wing voices that have been suspended or banned or de-amplified or anything like that. Now, some of https://t.co/ynVzKf1HC2",        "created_at": "Mon Dec 01 04:40:48 +0000 2025",
+    "favorite_count": 17,
+    "retweet_count": 6,
+    "reply_count": 3
+  },
+  "__typename": "Tweet",
+  "unmention_data": {},
+  "edit_control": {
+    "edit_tweet_ids": [
+      "1995352357232681053"
+    ],
+    "editable_until_msecs": "1764567648000",
+    "is_edit_eligible": true,
+    "edits_remaining": "5"
+  },
+  "is_translatable": false,
+  "views": {
+    "count": "217",
+    "state": "EnabledWithCount"
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "note_tweet": {
+    "is_expandable": true,
+    "note_tweet_results": {
+      "result": {
+        "id": "Tm90ZVR3ZWV0OjE5OTUzNTIzNTcxMTkzODk2OTY=",
+        "text": "Elon Musk: 𝕏 doesn't put its thumb on the scale beyond the laws of a country.\n\n“What I've tried to do is just restore it to be balanced and cent
+rist. There haven't been any left-wing voices that have been suspended or banned or de-amplified or anything like that. Now, some of them have chosen to just go somewhere else. But at this point the operating principle of the 𝕏 system is to adhere to any country's laws, but not to put our thumb on the scale beyond the laws of a country.”\n\nFrom: Interview with Nikhil Kamath, November 30, 2025",                                                                                                   "entity_set": {
+          "hashtags": [],
+          "symbols": [],
+          "timestamps": [],
+          "urls": [],
+          "user_mentions": []
+        },
+        "richtext": {
+          "richtext_tags": []
+        },
+        "media": {
+          "inline_media": []
+        }
+      }
+    }
+  }
+}

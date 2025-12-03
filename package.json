@@ -1,0 +1,46 @@
+{
+    "name": "xtract",
+    "version": "0.0.1",
+    "description": "A TypeScript library for extraction",
+    "type": "module",
+    "main": "./dist/index.cjs",
+    "module": "./dist/index.js",
+    "types": "./dist/index.d.ts",
+    "exports": {
+        ".": {
+            "types": "./dist/index.d.ts",
+            "import": "./dist/index.js",
+            "require": "./dist/index.cjs"
+        }
+    },
+    "files": [
+        "dist"
+    ],
+    "scripts": {
+        "build": "tsup",
+        "dev": "tsup --watch",
+        "test": "vitest",
+        "test:run": "vitest run",
+        "lint": "eslint src",
+        "format": "prettier --write src",
+        "prepublishOnly": "npm run build"
+    },
+    "keywords": [
+        "typescript",
+        "extraction",
+        "zod"
+    ],
+    "author": "Eric Wu",
+    "license": "MIT",
+    "devDependencies": {
+        "@types/node": "^24.10.1",
+        "eslint": "^9.39.1",
+        "prettier": "^3.7.3",
+        "tsup": "^8.5.1",
+        "typescript": "^5.9.3",
+        "vitest": "^4.0.14"
+    },
+    "dependencies": {
+        "zod": "^4.1.13"
+    }
+}

@@ -1,6 +1,6 @@
 {
   "name": "x-tract",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A TypeScript library for extracting Twitter/X post data with automatic URL expansion and rich content support",
   "type": "module",
   "main": "./dist/index.cjs",
@@ -14,7 +14,10 @@
     }
   },
   "files": [
-    "dist"
+    "dist",
+    "src",
+    "tsconfig.json",
+    "tsup.config.ts"
   ],
   "scripts": {
     "build": "tsup",
@@ -23,6 +26,7 @@
     "test:run": "vitest run",
     "lint": "eslint src",
     "format": "prettier --write src",
+    "prepare": "npm run build",
     "prepublishOnly": "npm run build"
   },
   "keywords": [

@@ -15,13 +15,13 @@ A TypeScript library for extracting Twitter/X post data with automatic URL expan
 ## Installation
 
 ```bash
-npm install x-tract
+npm install @tanker327/xtract
 ```
 
 ## Quick Start
 
 ```typescript
-import { getPostData } from "x-tract";
+import { getPostData } from "@tanker327/xtract";
 
 // Fetch a post by ID or URL
 const post = await getPostData("1996005472114278776");
@@ -65,7 +65,7 @@ const postData = transformPost(rawPost);
 ### Utility Functions
 
 ```typescript
-import { extractPostId, isValidPostId, isValidPostUrl } from "x-tract";
+import { extractPostId, isValidPostId, isValidPostUrl } from "@tanker327/xtract";
 
 extractPostId("https://x.com/jack/status/20"); // '20'
 isValidPostId("20"); // true
@@ -130,7 +130,7 @@ interface PostStats {
 ### Fetch a Standard Post
 
 ```typescript
-import { getPostData } from "x-tract";
+import { getPostData } from "@tanker327/xtract";
 
 const post = await getPostData("20"); // Jack's first tweet
 
@@ -188,7 +188,7 @@ import {
   PostNotFoundError,
   AuthenticationError,
   InvalidPostIdError,
-} from "x-tract";
+} from "@tanker327/xtract";
 
 try {
   const post = await getPostData("invalid-id");

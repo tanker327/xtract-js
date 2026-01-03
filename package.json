@@ -1,5 +1,5 @@
 {
-  "name": "x-tract",
+  "name": "@tanker327/xtract",
   "version": "0.2.0",
   "description": "A TypeScript library for extracting Twitter/X post data with automatic URL expansion and rich content support",
   "type": "module",

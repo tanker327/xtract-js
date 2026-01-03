@@ -15,12 +15,20 @@ export const UrlEntitySchema = z.object({
 });
 
 /**
+ * Hashtag entity schema
+ */
+export const HashtagEntitySchema = z.object({
+  text: z.string(),
+  indices: z.tuple([z.number(), z.number()]),
+});
+
+/**
  * Media entities in legacy post format
  */
 export const MediaEntitiesSchema = z.object({
   media: z.array(z.any()).optional(),
   urls: z.array(UrlEntitySchema).optional(),
-  hashtags: z.array(z.any()).optional(),
+  hashtags: z.array(HashtagEntitySchema).optional(),
   user_mentions: z.array(z.any()).optional(),
 });
 
@@ -37,6 +45,7 @@ export const LegacyPostSchema = z.object({
 });
 
 export type UrlEntity = z.infer<typeof UrlEntitySchema>;
+export type HashtagEntity = z.infer<typeof HashtagEntitySchema>;
 export type MediaEntities = z.infer<typeof MediaEntitiesSchema>;
 export type LegacyPost = z.infer<typeof LegacyPostSchema>;
 

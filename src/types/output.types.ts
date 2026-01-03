@@ -66,6 +66,9 @@ export interface PostData {
   /** Array of video URLs */
   videos: string[];
 
+  /** Array of hashtags (without the # symbol) */
+  hashtags: string[];
+
   /** Quoted/embedded post (if present) */
   quotedPost?: PostData;
 }

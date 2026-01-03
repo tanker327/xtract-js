@@ -32,6 +32,11 @@ export function parsePost(post: Post): PostData {
   };
   let createdAt = "";
 
+  // Extract hashtags from legacy entities
+  const legacy = (post as any).legacy as LegacyPost;
+  const hashtags: string[] =
+    legacy?.entities?.hashtags?.map((h: any) => h.text) || [];
+
   // Check if this is an article post or standard post
   if ("article" in post && post.article) {
     // Handle article posts
@@ -52,7 +57,6 @@ export function parsePost(post: Post): PostData {
   const author = extractAuthorInfo(post);
 
   // Extract stats from legacy field
-  const legacy = (post as any).legacy as LegacyPost;
   if (legacy) {
     stats.likes = legacy.favorite_count;
     stats.reposts = legacy.retweet_count;
@@ -89,6 +93,7 @@ export function parsePost(post: Post): PostData {
     stats,
     images,
     videos,
+    hashtags,
     quotedPost,
   };
 }

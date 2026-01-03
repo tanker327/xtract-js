@@ -1,4 +1,4 @@
-import { getPostData, PostData } from '../src/index';
+import { getPost, getPostData, PostData } from '../src/index';
 import * as fs from 'fs';
 import * as path from 'path';
 import { fileURLToPath } from 'url';
@@ -33,7 +33,12 @@ async function main() {
   console.log(`Fetching post: ${postId}...`);
 
   try {
-    const post = await getPostData(postId);
+    // Fetch both raw and parsed data
+    const [rawPost, post] = await Promise.all([
+      getPost(postId),
+      getPostData(postId),
+    ]);
+
     if (post) {
       console.log('Successfully fetched post:');
       console.log(JSON.stringify(post, null, 2));
@@ -48,13 +53,23 @@ async function main() {
       fileContent += formatQuotedPosts(post, 0);
       fs.writeFileSync(mdFilename, fileContent);
 
-      // Save full JSON response
+      // Save parsed JSON response
       const jsonFilename = path.join(resultsDir, `${post.id}.json`);
       fs.writeFileSync(jsonFilename, JSON.stringify(post, null, 2));
 
-      console.log(`\nSaved results to ${resultsDir}/`);
-      console.log(`  - ${post.id}.md (text content)`);
-      console.log(`  - ${post.id}.json (full data)`);
+      // Save raw API response
+      if (rawPost) {
+        const rawJsonFilename = path.join(resultsDir, `${post.id}.raw.json`);
+        fs.writeFileSync(rawJsonFilename, JSON.stringify(rawPost, null, 2));
+        console.log(`\nSaved results to ${resultsDir}/`);
+        console.log(`  - ${post.id}.md (text content)`);
+        console.log(`  - ${post.id}.json (parsed data)`);
+        console.log(`  - ${post.id}.raw.json (raw API response)`);
+      } else {
+        console.log(`\nSaved results to ${resultsDir}/`);
+        console.log(`  - ${post.id}.md (text content)`);
+        console.log(`  - ${post.id}.json (parsed data)`);
+      }
     } else {
       console.log('Post not found or null result.');
     }
